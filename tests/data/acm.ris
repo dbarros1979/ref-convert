@@ -1,0 +1,3637 @@
+TY  - CONF
+AB  - Purpose of the review: Traditional autism screening and diagnosis has 
+some limitations, they cannot meet the needs of large-scale screening 
+and diagnosis. The application of Artificial Intelligence (AI) technol
+ogy to clinical medicine is a hot research topic recently, especially 
+in mental health. China and international explorations of autism intel
+ligent recognition technology have accumulated rich results in the fie
+lds of brain imaging, expression, eye movement and action, multimode, 
+and classical task behaviour. Meanwhile, a variety of intelligent ther
+apeutic robots based on modal interaction are also developed. This pap
+er reviews the shortcomings of the traditional diagnostic techniques f
+or autism and the current research status of AI in the diagnosis and t
+reatment, hope to provide a reference for relevant research on Autism 
+applications based on AI.Research methods: Literature on the applicati
+on of AI in autism screening diagnosis and intervention in recent year
+s was searched through literature navigation, and we analyse the aspec
+ts of autism screening, diagnosis and therapeutic intervention.Researc
+h conclusion: With the rapid development of artificial intelligence te
+chnology, it has become possible to use intelligent methods to carry o
+ut early large-scale senseless screening and diagnosis of Autism. In t
+he future, research should focus on building an intelligent medical sc
+reening and diagnosis system for autism&nbsp;patient, developing scree
+ning tools and constructing an intelligent identification model for pa
+tients that integrates multimode data.
+AU  - Wang, Jiaojiao
+AU  - Hu, Maorong
+C2  - 2024///
+C3  - Proceedings of the 2023 4th International Symposium on Artificial Inte
+lligence for Medicine Science
+DO  - 10.1145/3644116.3644267
+ID  - 10.1145/3644116.3644
+LB  - 10.1145/3644116.3644267
+PB  - Association for Computing Machinery
+SN  - 9798400708138
+SP  - 882-886
+T3  - ISAIMS '23
+TI  - The Application of Artificial Intelligence in the Recognition, Diagnos
+is, and Treatment of Autism
+UR  - https://doi.org/10.1145/3644116.3644267
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3722237
+LB  - 10.1145/3722237
+PB  - Association for Computing Machinery
+SN  - 9798400712692
+TI  - ICAIE '24: Proceedings of the 2024 3rd International Conference on Art
+ificial Intelligence and Education
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3708394
+LB  - 10.1145/3708394
+PB  - Association for Computing Machinery
+SN  - 9798400710650
+TI  - AIFE '24: Proceeding of the 2024 International Conference on Artificia
+l Intelligence and Future Education
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3728725
+LB  - 10.1145/3728725
+PB  - Association for Computing Machinery
+SN  - 9798400713453
+TI  - GAIIS '25: Proceedings of the 2025 2nd International Conference on Gen
+erative Artificial Intelligence and Information Security
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3727648
+LB  - 10.1145/3727648
+PB  - Association for Computing Machinery
+SN  - 9798400712647
+TI  - CAICE '25: Proceedings of the 4th International Conference on Computer
+, Artificial Intelligence and Control Engineering
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3706890
+LB  - 10.1145/3706890
+PB  - Association for Computing Machinery
+SN  - 9798400717826
+TI  - ISAIMS '24: Proceedings of the 2024 5th International Symposium on Art
+ificial Intelligence for Medicine Science
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3669754
+LB  - 10.1145/3669754
+PB  - Association for Computing Machinery
+SN  - 9798400717055
+TI  - ICCAI '24: Proceedings of the 2024 10th International Conference on Co
+mputing and Artificial Intelligence
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3660043
+LB  - 10.1145/3660043
+PB  - Association for Computing Machinery
+SN  - 9798400716157
+TI  - ICIEAI '23: Proceedings of the 2023 International Conference on Inform
+ation Education and Artificial Intelligence
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3652628
+LB  - 10.1145/3652628
+PB  - Association for Computing Machinery
+SN  - 9798400708831
+TI  - ICAICE '23: Proceedings of the 4th International Conference on Artific
+ial Intelligence and Computer Engineering
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3644116
+LB  - 10.1145/3644116
+PB  - Association for Computing Machinery
+SN  - 9798400708138
+TI  - ISAIMS '23: Proceedings of the 2023 4th International Symposium on Art
+ificial Intelligence for Medicine Science
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3639631
+LB  - 10.1145/3639631
+PB  - Association for Computing Machinery
+SN  - 9798400709203
+TI  - ACAI '23: Proceedings of the 2023 6th International Conference on Algo
+rithms, Computing and Artificial Intelligence
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3672919
+LB  - 10.1145/3672919
+PB  - Association for Computing Machinery
+SN  - 9798400718212
+TI  - CSAIDE '24: Proceedings of the 2024 3rd International Conference on Cy
+ber Security, Artificial Intelligence and Digital Economy
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3579654
+LB  - 10.1145/3579654
+PB  - Association for Computing Machinery
+SN  - 9781450398336
+TI  - ACAI '22: Proceedings of the 2022 5th International Conference on Algo
+rithms, Computing and Artificial Intelligence
+ER  - 
+TY  - CONF
+AB  - Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder charac
+terized by impairments in social communication and interaction, as wel
+l as restricted and repetitive behaviors. ASD affects individuals acro
+ss various aspects of their lives, including their cognitive, social, 
+and motor skills. Early detection and intervention are crucial for imp
+roving outcomes and providing appropriate support to individuals with 
+ASD. Handwriting is an essential skill that children develop early in 
+life, and it provides valuable insights into their motor control, coor
+dination, and cognitive processes. Good handwriting is crucial for aca
+demic progress, social and communicative development, and development 
+of self-esteem. By identifying the handwriting characteristics exhibit
+ed by ASD children, we aim to develop a reliable and objective method 
+for detecting ASD. We aim to identify the handwriting characteristics 
+associated with ASD using deep learning techniques. The characteristic
+s of Chinese characters, such as straight lines and turns, are conside
+red in analyzing the writing characteristics of ASD children. We prese
+nt a dataset of ASD children's handwriting in Traditional Chinese and 
+fine-tunes three models to build a classification model. Experiment re
+sults demonstrate the model's effectiveness in distinguishing between 
+the handwriting of ASD children and typically developing children, ach
+ieving F1 score of 93.6%. The study provides valuable insights into ha
+ndwriting characteristics in ASD and suggests directions for future re
+search in this area.
+AU  - Yen, Ling Kai
+AU  - Wong, Jasin
+AU  - Chen, Arbee
+C2  - 2024///
+C3  - Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing
+DO  - 10.1145/3605098.3635893
+ID  - 10.1145/3605098.3635
+KW  - autism
+KW  - handwriting characteristics
+KW  - deep learning
+LB  - 10.1145/3605098.3635893
+PB  - Association for Computing Machinery
+SN  - 9798400702433
+SP  - 856-865
+T3  - SAC '24
+TI  - Identifying Chinese Handwriting Characteristics for Detecting Children
+ with Autism
+UR  - https://doi.org/10.1145/3605098.3635893
+ER  - 
+TY  - JOUR
+AB  - This article examines the educational efficacy of a learning environme
+nt in which children diagnosed with Autism Spectrum Conditions (ASC) e
+ngage in social interactions with an artificially intelligent (AI) vir
+tual agent and where a human practitioner acts in support of the inter
+actions. A multi-site intervention study in schools across the UK was 
+conducted with 29 children with ASC and learning difficulties, aged 4–
+14 years old. For reasons related to data completeness and amount of e
+xposure to the AI environment, data for 15 children was included in th
+e analysis. The analysis revealed a significant increase in the propor
+tion of social responses made by ASC children to human practitioners. 
+The number of initiations made to human practitioners and to the virtu
+al agent by the ASC children also increased numerically over the cours
+e of the sessions. However, due to large individual differences within
+ the ASC group, this did not reach significance. Although no evidence 
+of transfer to the real-world post-test was shown, anecdotal evidence 
+of classroom transfer was reported. The work presented in this article
+ offers an important contribution to the growing body of research in t
+he context of AI technology design and use for autism intervention in 
+real school contexts. Specifically, the work highlights key methodolog
+ical challenges and opportunities in this area by leveraging interdisc
+iplinary insights in a way that (i) bridges between educational interv
+entions and intelligent technology design practices, (ii) considers th
+e design of technology as well as the design of its use (context and p
+rocedures) on par with one another, and (iii) includes design contribu
+tions from different stakeholders, including children with and without
+ ASC diagnosis, educational practitioners, and researchers.
+AU  - Porayska-Pomsta, Kaśka
+AU  - Alcorn, Alyssa M.
+AU  - Avramides, Katerina
+AU  - Beale, Sandra
+AU  - Bernardini, Sara
+AU  - Foster, Mary Ellen
+AU  - Frauenberger, Christopher
+AU  - Good, Judith
+AU  - Guldberg, Karen
+AU  - Keay-Bright, Wendy
+AU  - Kossyvaki, Lila
+AU  - Lemon, Oliver
+AU  - Mademtzi, Marilena
+AU  - Menzies, Rachel
+AU  - Pain, Helen
+AU  - Rajendran, Gnanathusharan
+AU  - Waller, Annalu
+AU  - Wass, Sam
+AU  - Smith, Tim J.
+DA  - 2018/12//
+DO  - 10.1145/3271484
+ID  - 10.1145/3271484
+IS  - 6
+KW  - Autism
+KW  - artificially intelligent agent
+KW  - intelligent learning environments
+KW  - neurodiversity
+KW  - social communication
+LB  - 10.1145/3271484
+SN  - 1073-0516
+T2  - ACM Trans. Comput.-Hum. Interact.
+TI  - Blending Human and Artificial Intelligence to Support Autistic Childre
+n’s Social Communication Skills
+UR  - https://doi.org/10.1145/3271484
+VL  - 25
+ER  - 
+TY  - JOUR
+AB  - Artificial intelligence (AI), manifested in the forms of technologies,
+ systems, tools, and applications, has advanced rapidly, especially in
+ recent years. It has permeated many aspects of human behavior and nea
+rly all sectors of society, such as healthcare and education. In the c
+ontext of early childhood education (ECE), AI has afforded valuable op
+portunities that directly and indirectly enhance children’s learning a
+nd development. While there are already two existing reviews of the li
+terature on AI in ECE, they show either a lack of descriptive informat
+ion concerning selected studies or inconsistencies between inclusion/e
+xclusion criteria and selected studies, thereby raising concerns about
+ their rigor. Representing a more methodologically rigorous effort and
+ a significant contribution to the field of AI in ECE, this scoping st
+udy aimed to achieve three main goals: (1) “mapping” the global landsc
+ape of the current extent, range, and nature of relevant studies on th
+e affordances of AI for use in ECE, (2) identifying potential research
+ gaps, and (3) charting future research directions. Specifically, it a
+ddressed this overarching research question: What is the global landsc
+ape of the current state of knowledge concerning the affordances of AI
+ for use in ECE? Specifically, the state of knowledge here refers to t
+hree aspects: (1) extent, (2) range, and (3) nature. First, regarding 
+the extent aspect, the empirical knowledge was derived from 18 researc
+h articles in 11 countries and 16 peer-reviewed academic journals betw
+een 2005 and 2023, with 14 of these articles published in the past fou
+r years (2020–2023). Second, with respect to the range of study popula
+tions, it covered 15,081 children in early childhood (ages 2 to 8 year
+s) across these 11 countries. Third, thematic analysis of these studie
+s revealed four areas of AI affordances: (1) AI as tangible and intang
+ible tools for interactive learning and information retrieval, (2) AI 
+as technology for predicting/classifying children’s conditions, (3) AI
+ as the object for learning by adapting to and personalizing children’
+s learning, and (4) AI as the subject for children's learning about it
+. Based on these findings, this scoping review identified three resear
+ch gaps for future studies: (1) interviewing and/or surveying educatio
+n stakeholders (parents, educators, policymakers) to explore the affor
+dances of appropriate AI for use with, by, and for children bearing et
+hical considerations; (2) conducting group comparisons to investigate 
+contextual factors contributing to the “AI divide” among children from
+ different socioeconomic backgrounds; and (3) comparing sociocultural 
+influences on AI use in ECE across cultures.
+AU  - Chen, Jennifer J.
+DA  - 2025/1//
+DO  - 10.1613/jair.1.16882
+ID  - 10.1613/jair.1.16882
+LB  - 10.1613/jair.1.16882
+SN  - 1076-9757
+T2  - J. Artif. Int. Res.
+TI  - A Scoping Study on AI Affordances in Early Childhood Education: Mappin
+g the Global Landscape, Identifying Research Gaps, and Charting Future
+ Research Directions
+UR  - https://doi.org/10.1613/jair.1.16882
+VL  - 81
+ER  - 
+TY  - CONF
+AB  - In pediatric healthcare in the Philippines, practical communication to
+ols are essential for children facing challenges in conventional expre
+ssion. Augmentative and Alternative Communication (AAC) is a transform
+ative solution that enables non-verbal pediatric patients to articulat
+e their thoughts and emotions effectively. The study explores 49 paper
+s from a pool of 182, uncovering critical challenges and innovative so
+lutions on a global scale. The transformative impact of Text-to-Speech
+ (TTS) technology is highlighted, as well as the essential role of tra
+nsition services in preparing individuals for employment. The study al
+so examines the power of self-advocacy training, communication boards,
+ and mobile AAC software in empowering students and fostering socializ
+ation. A hierarchical conceptual framework is proposed to guide the de
+velopment of the Filipino-based AAC mobile application that integrates
+ contextual and mediating variables. The implications of this research
+ are broad, affecting education, healthcare, and technology sectors. I
+t emphasizes the importance of continuous training and support for edu
+cators, caregivers, and individuals with disabilities. Overall, this r
+esearch significantly advances our understanding of AAC and lays the g
+roundwork for practical interventions that promote inclusivity for ind
+ividuals with communication challenges.
+AU  - Alvarez, David Anton C.
+AU  - Monteloyola, Charles Ian S.
+AU  - Samonte, Mary Jane C.
+AU  - Villaluz, Alberto C.
+C2  - 2024///
+C3  - Proceedings of the 2024 10th International Conference on Computing and
+ Artificial Intelligence
+DO  - 10.1145/3669754.3669789
+ID  - 10.1145/3669754.3669
+KW  - Augmentative and Alternative Communication
+KW  - Mobile Application
+KW  - Speech Therapy
+KW  - Speech-Language Pathology
+KW  - Usability Testing
+LB  - 10.1145/3669754.3669789
+PB  - Association for Computing Machinery
+SN  - 9798400717055
+SP  - 233-241
+T3  - ICCAI '24
+TI  - A Literature Analysis on the Development of a Filipino-Based Augmentat
+ive and Alternative Communication Mobile Application
+UR  - https://doi.org/10.1145/3669754.3669789
+ER  - 
+TY  - CONF
+AB  - The demo introduces Reflex, a phy-gital game for children and adolesce
+nts with Neuro-Developmental Disorder. The game, offered through a cro
+ss-platform application for smartphones and tablets, bridges the digit
+al and the physical worlds by tracking, via a bottom-looking mirror po
+sitioned on the device camera, physical items placed on a table. This 
+new interaction paradigm, the first pilot study and its adaptability t
+o each user profile reveals an unexplored potential for learning.
+AU  - Gelsomini, Mirko
+AU  - Spitale, Micol
+AU  - Beccaluva, Eleonora
+AU  - Viola, Leonardo
+AU  - Garzotto, Franca
+C2  - 2019///
+C3  - Companion Proceedings of the 24th International Conference on Intellig
+ent User Interfaces
+DO  - 10.1145/3308557.3308689
+ID  - 10.1145/3308557.3308
+KW  - accessibility
+KW  - adolescents
+KW  - children
+KW  - disability
+KW  - learning
+LB  - 10.1145/3308557.3308689
+PB  - Association for Computing Machinery
+SN  - 9781450366731
+SP  - 29-30
+T3  - IUI '19 Companion
+TI  - Reflex: adaptive learning beyond the screen
+UR  - https://doi.org/10.1145/3308557.3308689
+ER  - 
+TY  - CONF
+AB  - As generative artificial intelligence (GenAI) develops rapidly, equipp
+ing students with basic knowledge of GenAI at the secondary school lev
+el is beneficial. However, few subjects in special schools cover AI-re
+lated topics, and it remains unclear how students with special educati
+onal needs (SEN) perceive, learn, and use AI. In this study, we docume
+nted the Artificial Intelligence Generated Content (AIGC) learning exp
+erience of seven students from two special schools who participated in
+ a series of game design workshops. We analysed their learning process
+, usage, and perspectives of text-to-image GenAI through video analysi
+s, questionnaire, and evaluation of design outputs. Our findings revea
+l the students' willingness to learn and utilise AI technology. This A
+I experience allows students, especially those who struggle with fine 
+motor skills, to translate their ideas into digital images. Moreover, 
+the text-to-image interaction enhances students' ability to convey the
+ir ideas in writing and develop their skills in conceptualisation. We 
+also summarised significant human-AI interaction challenges, including
+ difficulties with typing, Chinese and English spelling, and prompt wr
+iting. We conclude with recommendations for designing future inclusive
+ human-AI interaction experiences for students with SEN in China.
+AU  - Liu, Xi
+AU  - Lau, Newman
+AU  - Chuin, Alex
+AU  - Leung, Wun Kam Reginia
+AU  - Ho, Ada How Sim
+AU  - Das, Mohana
+AU  - Liu, Mengru
+AU  - Kwok, Cheuk Lam
+C2  - 2024///
+C3  - Proceedings of the Eleventh International Symposium of Chinese CHI
+DO  - 10.1145/3629606.3629625
+ID  - 10.1145/3629606.3629
+KW  - Artificial Intelligence Generated Content (AIGC)
+KW  - Children with Special Educational Needs (SEN)
+KW  - Design-based Learning Activities
+KW  - Human-AI Interaction
+KW  - User Experience
+LB  - 10.1145/3629606.3629625
+PB  - Association for Computing Machinery
+SN  - 9798400716454
+SP  - 197-209
+T3  - CHCHI '23
+TI  - Understanding Students’ Perspectives, Practices, and Challenges of Des
+igning with AI in Special Schools
+UR  - https://doi.org/10.1145/3629606.3629625
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3691720
+LB  - 10.1145/3691720
+PB  - Association for Computing Machinery
+SN  - 9798400710230
+TI  - EKI '24: Proceedings of the 2nd International Conference on Educationa
+l Knowledge and Informatization
+ER  - 
+TY  - BOOK
+AB  - It is our great pleasure to present the Proceedings of the Eleventh An
+nual ACM Conference on Learning at Scale, L@S 2024, held July 18-20, 2
+024 at Georgia Tech in Atlanta, Georgia, USA.The Learning at Scale con
+ference was created by the Association for Computing Machinery (ACM), 
+inspired by the emergence of Massive Open Online Courses (MOOCs) and t
+he accompanying shift in thinking about education. During the last few
+ years, new opportunities for scaling up learning have emerged, like h
+ybrid learning environments combining online and face-to-face, and inf
+ormal learning enabled by all sorts of platforms (e.g., gamified langu
+age learning, citizen science communities, and collaborative programmi
+ng communities). In the recent two years, the unprecedented developmen
+t of generative AI has brought profound opportunities to scale the tea
+ching and learning experiences, with the goal of enhancing learning fo
+r the increasingly diverse group of learners in both formal and inform
+al contexts. L@S has evolved along with these emergent massive learnin
+g scenarios and opportunities and is today one of the most prominent v
+enues for discussion of the highest quality of research on how learnin
+g and teaching can be transformed at scale, in diverse learning enviro
+nments.The theme of L@S 2024 is Scaling Learning in the Age of AI. Rap
+id advances in AI have created new opportunities but also challenges f
+or the Learning@Scale community. The advances in generative AI show po
+tential to enhance pedagogical practices and the efficacy of learning 
+at scale. This has led to an unprecedented level of interest in employ
+ing generative AI for scaling tutoring and feedback. The prevalence of
+ such tools calls for new practices and understanding on how AI-based 
+methods should be designed and developed to enhance the experiences an
+d outcomes of teachers and learners.Learning@Scale 2024 solicits empir
+ical and theoretical papers on, but not limited to, the following topi
+cs (in no particular order): 1) Instruction at scale: studies that exa
+mine how teachers and educators scale their instructions, what aspects
+ of instruction could be scaled effectively, and which of these instru
+ctional strategies are the most effective for learning. 2) Interventio
+ns at scale: studies that examine the effects of interventions on stud
+ent learning and performance when implemented at scale. We welcome stu
+dies that use both qualitative and quantitative methods. 3) The use of
+ generative AI to scale learning: studies that investigate stakeholder
+s' experiences with generative AI, students' and teachers' interaction
+s with generative AI, and the potentials and limitations of using gene
+rative AI in education. 4) Systems and tools to support learning at sc
+ale: research that designs and develops systems and tools to support l
+earning at scale. For example, this involves scaling learning through 
+web-based systems, MOOCs, visualization, intelligent tutoring systems,
+ gamification, immersive techniques (AR/VR/MR), mobile technologies, t
+angible interfaces, and various other technologies. 5) The evaluation 
+of existing learning at scale systems and online learning environments
+ using but not limited to the above-mentioned technologies. 6) Methods
+ and algorithms that model learner behavior: research that contributes
+ methods, algorithms, and pipelines that process large student data to
+ enhance learning at scale. 7) Scaling learning in informal contexts: 
+studies that explore how people take advantage of online environments 
+to pursue their interests informally. 8) Review and synthesis of exist
+ing literature related to learning at scale. 9) Empirical studies and 
+interventions that address equity, trust, algorithmic transparency and
+ explainability, fairness and bias when using AI in education. 10) Res
+earch that addresses accessibility in learning at scale contexts. 11) 
+Design and deployment of learning at scale systems for learners from u
+nderrepresented groups.
+DA  - 2024///
+ID  - 10.1145/3657604
+LB  - 10.1145/3657604
+PB  - Association for Computing Machinery
+SN  - 9798400706332
+TI  - L@S '24: Proceedings of the Eleventh ACM Conference on Learning @ Scal
+e
+ER  - 
+TY  - CONF
+AB  - How might emerging modalities (e.g., NLP) be leveraged to transform th
+e provision of parenting support? To explore the role of AI technologi
+es in supporting parenting behaviour—and child-well-being—we surveyed 
+92 parents to gather their perspectives on nine future-oriented scenar
+ios. We used Design Fiction and Speed Dating to understand parents nee
+ds and preferences around the design of agent-based supports. We explo
+re the perceived benefits of AI assistants (i.e., receiving objective 
+feedback, managing emotions and personalised guidance) and the most vo
+iced concerns (i.e., AI undermining parental authority, replacing huma
+n interactions, and promoting lazy parenting). Finally, we highlight a
+ number of plausible design directions based on the scenarios that par
+ents were positive about.
+AU  - Petsolari, Melina
+AU  - Ibrahim, Seray B
+AU  - Slovak, Petr
+C2  - 2024///
+C3  - Proceedings of the 2024 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3613904.3642619
+ID  - 10.1145/3613904.3642
+KW  - agent-based supports
+KW  - artificial intelligence
+KW  - design fiction
+KW  - parenting
+KW  - socio-technical design
+LB  - 10.1145/3613904.3642619
+PB  - Association for Computing Machinery
+SN  - 9798400703300
+T3  - CHI '24
+TI  - Socio-technical Imaginaries: Envisioning and Understanding AI Parentin
+g Supports through Design Fiction
+UR  - https://doi.org/10.1145/3613904.3642619
+ER  - 
+TY  - JOUR
+AB  - The occurrence of unknown words in texts significantly hinders reading
+ comprehension. To improve accessibility for specific target populatio
+ns, computational modeling has been applied to identify complex words 
+in texts and substitute them for simpler alternatives. In this article
+, we present an overview of computational approaches to lexical comple
+xity prediction focusing on the work carried out on English data. We s
+urvey relevant approaches to this problem which include traditional ma
+chine learning classifiers (e.g., SVMs, logistic regression) and deep 
+neural networks as well as a variety of features, such as those inspir
+ed by literature in psycholinguistics as well as word frequency, word 
+length, and many others. Furthermore, we introduce readers to past com
+petitions and available datasets created on this topic. Finally, we in
+clude brief sections on applications of lexical complexity prediction,
+ such as readability and text simplification, together with related st
+udies on languages other than English.
+AU  - North, Kai
+AU  - Zampieri, Marcos
+AU  - Shardlow, Matthew
+DA  - 2023/1//
+DO  - 10.1145/3557885
+ID  - 10.1145/3557885
+IS  - 9
+KW  - Complex word identification
+KW  - lexical complexity prediction
+KW  - NLP
+KW  - lexical simplification
+KW  - text simplification
+KW  - assistive technologies
+LB  - 10.1145/3557885
+SN  - 0360-0300
+T2  - ACM Comput. Surv.
+TI  - Lexical Complexity Prediction: An Overview
+UR  - https://doi.org/10.1145/3557885
+VL  - 55
+ER  - 
+TY  - JOUR
+AB  - Driving is essential for many people in developed countries to achieve
+ independence. Individuals with Autism Spectrum Disorder (ASD), in add
+ition to having social skill deficits, may experience difficulty in le
+arning to drive due to deficits in attention-shifting, performing sequ
+ential tasks, integrating visual-motor responses, and coordinating mot
+or response. Lacking confidence and feeling anxiety further exacerbate
+s these concerns. While there is a growing body of research regarding 
+assessment of driving behavior or comparisons of driving behaviors bet
+ween individuals with and without ASD, there is a lack of driving simu
+lator that is catered toward the needs of individuals with ASD. We pre
+sent the development of a novel closed-loop adaptive Virtual Reality (
+VR) driving simulator for individuals with ASD that can infer one's en
+gagement based on his/her physiological responses and adapts driving t
+ask difficulty based on engagement level in real-time. We believe that
+ this simulator will provide opportunities for learning driving skills
+ in a safe and individualized environment to individuals with ASD and 
+help them with independent living. We also conducted a small user stud
+y with teenagers with ASD to demonstrate the feasibility and tolerabil
+ity of such a driving simulator. Preliminary results showed that the p
+articipants found the engagement-sensitive system more engaging and mo
+re enjoyable than a purely performance-sensitive system. These finding
+s could support future work into driving simulator technologies, which
+ could provide opportunities to practice driving skills in cost-effect
+ive, supportive, and safe environments.
+AU  - Bian, Dayi
+AU  - Wade, Joshua
+AU  - Swanson, Amy
+AU  - Weitlauf, Amy
+AU  - Warren, Zachary
+AU  - Sarkar, Nilanjan
+DA  - 2019/2//
+DO  - 10.1145/3301498
+ID  - 10.1145/3301498
+IS  - 1
+KW  - ASD
+KW  - Driving
+KW  - affective computing
+KW  - autism intervention
+KW  - dynamic difficulty adjustment (DDA)
+KW  - physiological signal
+LB  - 10.1145/3301498
+SN  - 1936-7228
+T2  - ACM Trans. Access. Comput.
+TI  - Design of a Physiology-based Adaptive Virtual Reality Driving Platform
+ for Individuals with ASD
+UR  - https://doi.org/10.1145/3301498
+VL  - 12
+ER  - 
+TY  - CONF
+AB  - Social robots, particularly in assisting children with autism, have ex
+hibited positive impacts on mental health. While prior studies concent
+rated on social robots in the Global North, there’s limited exploratio
+n in the Global South. It’s essential to comprehend special educators’
+ perspectives for effective integration in resource-constrained settin
+gs. Our mixed-methods approach, involving interviews, workshops, and a
+ panel discussion with 25 educators in India, uncovers challenges and 
+opportunities in integrating social robots into autism interventions. 
+The findings highlight the urgent need to democratise the benefits of 
+social robotics. Special educators express concerns about their functi
+onal capacity and fear potential redundancy due to the replacement of 
+human efforts by social robots. Despite initial scepticism, profession
+als suggest various ways to incorporate social robots, emphasising the
+ importance of technological innovation in reshaping and enhancing the
+ir roles in autism therapy. We discuss the implications of these findi
+ngs for developing context-aware solutions and policy-level initiative
+s necessary in resource-constrained settings.
+AU  - Ashwini, B
+AU  - Ghoshal, Atmadeep
+AU  - Suri, Venkata Ratnadeep
+AU  - Achary, Krishnaveni
+AU  - Shukla, Jainendra
+C2  - 2024///
+C3  - Proceedings of the 2024 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3613904.3642836
+ID  - 10.1145/3613904.3642
+KW  - ASD
+KW  - HCI4D
+KW  - Human-robot interaction
+KW  - social robots
+LB  - 10.1145/3613904.3642836
+PB  - Association for Computing Machinery
+SN  - 9798400703300
+T3  - CHI '24
+TI  - “It looks useful, works just fine, but will it replace me ?" Understan
+ding Special Educators’ Perception of Social Robots for Autism Care in
+ India
+UR  - https://doi.org/10.1145/3613904.3642836
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3711403
+LB  - 10.1145/3711403
+PB  - Association for Computing Machinery
+SN  - 9798400717468
+TI  - ICETM '24: Proceedings of the 2024 7th International Conference on Edu
+cational Technology Management
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3696230
+LB  - 10.1145/3696230
+PB  - Association for Computing Machinery
+SN  - 9798400717574
+TI  - ICDTE '24: Proceedings of the 2024 8th International Conference on Dig
+ital Technology in Education (ICDTE)
+ER  - 
+TY  - CONF
+AB  - People with cognitive and learning disabilities make up a significant 
+percentage of the general population. Among the difficulties of this g
+roup, it is frequent that they present a poor comprehension of texts. 
+The easy-to-read guidelines facilitate the comprehension of texts but 
+adapting texts according to these rules is a time-consuming manual lab
+our. There are automatic approaches to simplify texts and assess diffi
+culty after the text is published, but there is not a tool to help wri
+ters and editors in the editorial process. In this paper a platform is
+ presented to assist in this process by visually identifying problemat
+ic elements indicated in the guidelines. This approach allows publishe
+rs to do their job more efficiently.
+AU  - Morato, Jorge
+AU  - Campillo, Adrian
+AU  - Sanchez-Cuadrado, Sonia
+AU  - Iglesias, Ana
+AU  - Berrios, Olga
+C2  - 2021///
+C3  - Proceedings of the 9th International Conference on Software Developmen
+t and Technologies for Enhancing Accessibility and Fighting Info-Exclu
+sion
+DO  - 10.1145/3439231.3440613
+ID  - 10.1145/3439231.3440
+KW  - cognitive disabilities
+KW  - easy-to-read guidelines
+KW  - readability
+KW  - reading comprehension
+KW  - web authoring tools
+LB  - 10.1145/3439231.3440613
+PB  - Association for Computing Machinery
+SN  - 9781450389372
+SP  - 55-60
+T3  - DSAI '20
+TI  - An Accessible Evaluation Tool to Detect Easy-To-Read Barriers
+UR  - https://doi.org/10.1145/3439231.3440613
+ER  - 
+TY  - JOUR
+AB  - Autism spectrum disorder (ASD) affects many people; the Center for Dis
+ease Control and Prevention estimates that 1 in 59 children are curren
+tly identified with ASD in the United States. Although it is difficult
+ to generalize about people with ASD due to their heterogeneity, many 
+share an affinity for technologies; as such, numerous academic endeavo
+rs and commercial products have focused on the creation of interactive
+ technologies for ASD. In this article, we present findings from 19 in
+terviews and 230 surveys with parents, teachers, and therapists who ha
+d children with ASD in their care and had considered or used interacti
+ve technologies with those children. We aimed to understand how intera
+ctive technologies were used, perceived, desired, and discovered. Find
+ings of use and perception included the following: participants had tr
+ied a wide range of commercially available technologies but had very f
+ew reported products in common, products were limited to commercial mo
+bile-based apps, and apps were typically perceived positively. In rega
+rd to desires, participants hoped for future technologies on diverse p
+latforms (e.g., robots, virtual reality) with more consideration given
+ to personalization, customization, and incorporation of audio and vid
+eo. Findings about discovery included the following: participants chos
+e technologies in an information-poor environment, and although there 
+are many academic projects aimed at participants’ desires, no particip
+ants reported any experience working with researchers. Implications of
+ this study include the need for a recommendation and information shar
+ing system to help people choose and discover appropriate and effectiv
+e interactive technologies that are a good fit for their child. This w
+ork also pointed to a need for such a system to include findings from 
+lab (experimental and usability) studies of commercially available int
+eractive technologies to provide measures of efficacy and usability. O
+ur envisioned system could also potentially help academic researchers 
+with outreach to wider audiences.
+AU  - Putnam, Cynthia
+AU  - Hanschke, Christina
+AU  - Todd, Jennifer
+AU  - Gemmell, Jonathan
+AU  - Kollia, Mia
+DA  - 2019/9//
+DO  - 10.1145/3342285
+ID  - 10.1145/3342285
+IS  - 3
+KW  - Autism
+KW  - children
+KW  - interactive technologies
+LB  - 10.1145/3342285
+SN  - 1936-7228
+T2  - ACM Trans. Access. Comput.
+TI  - Interactive Technologies Designed for Children with Autism: Reports of
+ Use and Desires from Parents, Teachers, and Therapists
+UR  - https://doi.org/10.1145/3342285
+VL  - 12
+ER  - 
+TY  - CHAP
+ID  - 10.1145/3107990.3107
+LB  - 10.1145/3107990.3107992
+PB  - Association for Computing Machinery
+PY  - 2018///
+SN  - 9781970001716
+SP  - 1-16
+T2  - The Handbook of Multimodal-Multisensor Interfaces: Signal Processing, 
+Architectures, and Detection of Emotion and Cognition - Volume 2
+TI  - Introduction: trends in intelligent multimodal-multisensorial interfac
+es: cognition, emotion, social signals, deep learning, and more
+UR  - https://doi.org/10.1145/3107990.3107992
+ER  - 
+TY  - CONF
+AB  - Communication disabilities can limit individuals’ social interaction, 
+often leading to isolation and reduced quality of life. Speech-languag
+e pathologists (SLPs) can address these challenges through tailored in
+terventions, often supported by assistive technologies. This study exp
+lores how conversational agents (CAs) can support individuals with com
+munication disabilities by incorporating SLP expertise through a co-de
+sign approach. We conducted a two-phase study: a co-design workshop to
+ understand the needs of the target population and potential roles of 
+CAs to support communication skill training, and a subsequent evaluati
+on session with a CA prototype by a group of SLPs. Our findings highli
+ghted the importance of designing accessibility, personalization, and 
+motivation features of CAs with greater depth, augmentation, and preci
+sion, emphasizing the need for multiple interaction modalities, real-t
+ime and deeply tailored personalization, and more intrinsic motivation
+al strategies. Our work contributes to the design and application of i
+nclusive CAs in communication therapy, with implications for clinical 
+and home settings.
+AU  - Khan, Fahad
+AU  - Wu, Yufeng
+AU  - Dray, Julia
+AU  - Hemsley, Bronwyn
+AU  - Kocaballi, A. Baki
+C2  - 2025///
+C3  - Proceedings of the Extended Abstracts of the CHI Conference on Human F
+actors in Computing Systems
+DO  - 10.1145/3706599.3719800
+ID  - 10.1145/3706599.3719
+KW  - Co-design
+KW  - Communication Disability
+KW  - Conversational Agents
+KW  - Human-Computer interaction
+KW  - Speech Pathology
+KW  - Thematic Analysis
+KW  - User Experience
+LB  - 10.1145/3706599.3719800
+PB  - Association for Computing Machinery
+SN  - 9798400713958
+T3  - CHI EA '25
+TI  - Conversational Agents to Support People with Communication Disability:
+ A Co-design Study with Speech Pathologists
+UR  - https://doi.org/10.1145/3706599.3719800
+ER  - 
+TY  - CONF
+AB  - Impairment in pragmatic language is one of the most noticeable symptom
+s of autism spectrum disorders (ASD). Abnormal activity in the inferio
+r frontal gyrus (IFG), a critical language area associated with pragma
+tic meaning processing, has been repeatedly reported in individuals wi
+th ASD. While brain areas are connected via&nbsp;networks, few studies
+ have examined how the intrinsic network of IFG is connected atypicall
+y to other brain areas in ASD participants&nbsp;compared to typical co
+ntrols. To elucidate the putative brain network underlying IFG, we com
+pared the resting-state functional connectivity in ASD and typically d
+eveloping children. A two-sample t-test based on 16 autistic and 16 ty
+pically developing children revealed that both LIFG and RIFG had aberr
+ant functional connectivity. Specifically, compared to the typically d
+eveloping children, the ASD group had lower pragmatic language perform
+ance and were associated with weaker connectivity between LIFG and inf
+erior occipital gyrus (IOG), inferior frontal gyrus, opercular part (I
+FGoperc), middle frontal gyrus (MFG), and thalamus (THA), but increase
+d functional connectivity between LIFG and cingulate gyrus (CG). Regar
+ding RIFG, our study revealed reduced functional connectivity between 
+RIFG and the fusiform (FFG), lingual gyrus (LING), pons, and cuneus (C
+UN), but increased functional connectivity between RIFG and the middle
+ temporal gyrus (MTG). This altered brain network is closely linked to
+ the classical network of Theory of mind (ToM) network, which provides
+ a rationale for understanding pragmatic language impairment in autism
+. Based on the results of functional connectivity, this study discusse
+d the possible reasons of pragmatic impairment in children with autism
+ in the scope of ToM, and provided suggestions for the neural mechanis
+m, clinical diagnosis and rehabilitation of children with autism who h
+ave pragmatic disorders.
+AU  - Yu, Hangyan
+C2  - 2023///
+C3  - Proceedings of the 2023 15th International Conference on Bioinformatic
+s and Biomedical Technology
+DO  - 10.1145/3608164.3608204
+ID  - 10.1145/3608164.3608
+KW  - autism spectrum disorders
+KW  - functional connectivity
+KW  - pragmatic impairment
+KW  - resting-state fMRI
+LB  - 10.1145/3608164.3608204
+PB  - Association for Computing Machinery
+SN  - 9798400700385
+SP  - 261-266
+T3  - ICBBT '23
+TI  - Intrinsic Brain Connectivity Associated with Pragmatic Language Impair
+ment in Children with Autism
+UR  - https://doi.org/10.1145/3608164.3608204
+ER  - 
+TY  - CONF
+AB  - This paper reports an ongoing study, linked with qualitative research 
+methods and an inductive perspective, on how we can make learning enjo
+yable for children with severe intellectual disabilities. The teacher 
+interviews mainly focused on the potential of educational apps such as
+ Specual iApps for playful learning with relatively little considerati
+on on technical considerations. The Template Analysis revealed 9 broad
+ themes including Engagement, Fun, Playfulness, Attraction or Appeal, 
+Assessment, Ease of Use, Personalized Learning, Accessibility/ Interac
+tivity, and Reduced Disruptive Behaviour. Based on the analysis of the
+ results and their implications, the paper provides a series of recomm
+endations and directions that can be used as a reference among the sof
+tware developers and designers to create educational apps for children
+ with complex needs offering real educational value.
+AU  - Paracha, Samiullah
+AU  - Hagan-Green, Gill
+AU  - Hall, Lynne
+AU  - Macfarlane, Kate
+C2  - 2023///
+C3  - Proceedings of the 10th International Conference on Software Developme
+nt and Technologies for Enhancing Accessibility and Fighting Info-Excl
+usion
+DO  - 10.1145/3563137.3563163
+ID  - 10.1145/3563137.3563
+KW  - Educational Apps
+KW  - Fun
+KW  - Intellectually Disabled Children
+KW  - Play-based Learning
+LB  - 10.1145/3563137.3563163
+PB  - Association for Computing Machinery
+SN  - 9781450398077
+SP  - 100-106
+T3  - DSAI '22
+TI  - Special iApps: Play-based Learning for Children with Severe Intellectu
+al Disabilities
+UR  - https://doi.org/10.1145/3563137.3563163
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3702163
+LB  - 10.1145/3702163
+PB  - Association for Computing Machinery
+SN  - 9798400717819
+TI  - ICETC '24: Proceedings of the 2024 16th International Conference on Ed
+ucation Technology and Computers
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3724979
+LB  - 10.1145/3724979
+PB  - Association for Computing Machinery
+SN  - 9798400712203
+TI  - BIC '25: Proceedings of the 2025 5th International Conference on Bioin
+formatics and Intelligent Computing
+ER  - 
+TY  - JOUR
+AB  - Traditional symbol-based AAC devices impose meta-linguistic and memory
+ demands on individuals with complex communication needs and hinder co
+nversation partners from stimulating symbolic language in meaningful m
+oments. This work presents a prototype application that generates situ
+ation-specific communication boards formed by a combination of descrip
+tive, narrative, and semantic related words and phrases inferred autom
+atically from photographs. Through semi-structured interviews with AAC
+ professionals, we investigate how this prototype was used to support 
+communication and language learning in naturalistic school and therapy
+ settings. We find that the immediacy of vocabulary reduces conversati
+on partners’ workload, opens up opportunities for AAC stimulation, and
+ facilitates symbolic understanding and sentence construction. We cont
+ribute a nuanced understanding of how vocabularies generated automatic
+ally from photographs can support individuals with complex communicati
+on needs in using and learning symbolic AAC, offering insights into th
+e design of automatic vocabulary generation methods and interfaces to 
+better support various scenarios of use and goals.
+AU  - Vargas, Mauricio
+AU  - Dai, Jiamin
+AU  - Moffatt, Karyn
+DA  - 2024/12//
+DO  - 10.1145/3623505
+ID  - 10.1145/3623505
+IS  - 1
+KW  - Augmentative and Alternative Communication
+KW  - autism
+KW  - just-in-time
+KW  - automatic
+LB  - 10.1145/3623505
+SN  - 0001-0782
+SP  - 89-96
+T2  - Commun. ACM
+TI  - AAC with Automated Vocabulary from Photographs: Insights from School a
+nd Speech-Language Therapy Settings
+UR  - https://doi.org/10.1145/3623505
+VL  - 68
+ER  - 
+TY  - CONF
+AB  - Reading skills are crucial for students' success in education and beyo
+nd. However, reading proficiency among K-12 students has been declinin
+g globally, including in Sweden, leaving many underprepared for post-s
+econdary education. Additionally, an increasing number of students hav
+e reading disorders, such as dyslexia, which require support. Generati
+ve artificial intelligence (genAI) technologies, like ChatGPT, may off
+er new opportunities to improve reading practices by enhancing the rea
+dability of educational texts. This study investigates whether ChatGPT
+-4 can simplify academic texts and which prompting strategies are most
+ effective. We tasked ChatGPT to re-write 136 academic texts using fou
+r prompting approaches: Standard, Meta, Roleplay, and Chain-of-Thought
+. All four approaches improved text readability, with Meta performing 
+the best overall and the Standard prompt sometimes creating texts that
+ were less readable than the original. This study found variability in
+ the simplified texts, suggesting that different strategies should be 
+used based on the specific needs of individual learners. Overall, the 
+findings highlight the potential of genAI tools, like ChatGPT, to impr
+ove the accessibility of academic texts, offering valuable support for
+ students with reading difficulties and promoting more equitable learn
+ing opportunities.
+AU  - Hedlin, Elias
+AU  - Estling, Ludwig
+AU  - Wong, Jacqueline
+AU  - Demmans Epp, Carrie
+AU  - Viberg, Olga
+C2  - 2025///
+C3  - Proceedings of the 15th International Learning Analytics and Knowledge
+ Conference
+DO  - 10.1145/3706468.3706483
+ID  - 10.1145/3706468.3706
+KW  - Analytics
+KW  - Equity
+KW  - Large language models
+KW  - Literacy
+KW  - Prompt engineering
+KW  - Readability
+LB  - 10.1145/3706468.3706483
+PB  - Association for Computing Machinery
+SN  - 9798400707018
+SP  - 115-125
+T3  - LAK '25
+TI  - Got It! Prompting Readability Using ChatGPT to Enhance Academic Texts 
+for Diverse Learning Needs
+UR  - https://doi.org/10.1145/3706468.3706483
+ER  - 
+TY  - CONF
+AB  - Generative AI (AI) has become ubiquitous in both daily and professiona
+l life, with emerging research demonstrating its potential as a tool f
+or accessibility. Neurodivergent people, often left out by existing ac
+cessibility technologies, develop their own ways of navigating normati
+ve expectations. GAI offers new opportunities for access, but it is im
+portant to understand how neurodivergent “power users”—successful earl
+y adopters—engage with it and the challenges they face. Further, we mu
+st understand how marginalization and intersectional identities influe
+nce their interactions with GAI. Our autoethnography, enhanced by priv
+acy-preserving GAI-based diaries and interviews, reveals the intricaci
+es of using GAI to navigate normative environments and expectations. O
+ur findings demonstrate how GAI can both support and complicate tasks 
+like code-switching, emotional regulation, and accessing information. 
+We show that GAI can help neurodivergent users to reclaim their agency
+ in systems that diminish their autonomy and self-determination. Howev
+er, challenges such as balancing authentic self-expression with societ
+al conformity, alongside other risks, create barriers to realizing GAI
+’s full potential for accessibility.
+AU  - Glazko, Kate
+AU  - Cha, JunHyeok
+AU  - Lewis, Aaleyah
+AU  - Kosa, Ben
+AU  - Wimer, Brianna L
+AU  - Zheng, Andrew
+AU  - Zheng, Yiwei
+AU  - Mankoff, Jennifer
+C2  - 2025///
+C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3706598.3713670
+ID  - 10.1145/3706598.3713
+KW  - auto-ethnography; generative artificial intelligence; accessibility; n
+eurodivergent people; intersectionality; stigma
+LB  - 10.1145/3706598.3713670
+PB  - Association for Computing Machinery
+SN  - 9798400713941
+T3  - CHI '25
+TI  - Autoethnographic Insights from Neurodivergent GAI “Power Users”
+UR  - https://doi.org/10.1145/3706598.3713670
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3687311
+LB  - 10.1145/3687311
+PB  - Association for Computing Machinery
+SN  - 9798400709920
+TI  - IECT '24: Proceedings of the 2024 International Conference on Intellig
+ent Education and Computer Technology
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3610661
+LB  - 10.1145/3610661
+PB  - Association for Computing Machinery
+SN  - 9798400703218
+TI  - ICMI '23 Companion: Companion Publication of the 25th International Co
+nference on Multimodal Interaction
+ER  - 
+TY  - BOOK
+A3  - Alonso, Omar
+A3  - Baeza-Yates, Ricardo
+AB  - In the last decade, deep learning and word embeddings have made signif
+icant impacts on information retrieval (IR) by adding techniques based
+ in neural networks and language models. At the same time, certain sea
+rch modalities such as neural IR and conversational search have become
+ more popular. This book, written by international academic and indust
+ry experts, brings the field up to date with detailed discussions of t
+hese new approaches and techniques. The book is organized in three sec
+tions: Foundations, Adaptations and Concerns, and Verticals.Under Foun
+dations, we address topics that form the basic structure of any modern
+ IR system, including recommender systems. These new techniques are de
+veloped to augment indexing, retrieval, and ranking. Neural IR, recomm
+ender systems, evaluation, query-driven functionality, and knowledge g
+raphs are covered in this section.IR systems need to adapt to specific
+ user characteristics and preferences, and techniques that were consid
+ered too niche a few years ago are now a matter of system design consi
+deration. The Adaptations and Concerns section covers the following to
+pics: conversational search, cross-language retrieval, temporal extrac
+tion and retrieval, bias in retrieval systems, and privacy in search.W
+hile web search engines are the most popular information access point,
+ there are cases where specific verticals provide a better experience 
+in terms of content and relevance. The Verticals section describes eCo
+mmerce, professional search, personal collections, music retrieval, an
+d biomedicine as examples.
+DA  - 2024///
+ET  - 1
+ID  - 10.1145/3674127
+LB  - 10.1145/3674127
+PB  - Association for Computing Machinery
+SN  - 9798400710506
+TI  - Information Retrieval: Advanced Topics and Techniques
+VL  - 60
+ER  - 
+TY  - CONF
+AB  - One of the key challenges faced by autistic children is understanding 
+social affordances in complex environments, which further impacts thei
+r ability to respond appropriately to social signals. In traffic scena
+rios, this impairment can even lead to safety concerns. In this paper,
+ we introduce an LLM-simulated immersive projection environment design
+ed to improve this ability in autistic children while ensuring their s
+afety. We first propose 17 design considerations across four major cat
+egories, derived from a comprehensive review of previous research. Nex
+t, we developed a system called AIRoad, which leverages LLMs to simula
+te drivers with varying social intents, expressed through explicit mul
+timodal social signals. AIRoad helps autistic children bridge the gap 
+in recognizing the intentions behind behaviors and learning appropriat
+e responses through various stimuli. A user study involving 14 partici
+pants demonstrated that this technology effectively engages autistic c
+hildren and leads to significant improvements in their comprehension o
+f social affordances in traffic scenarios. Additionally, parents repor
+ted high perceived usability of the system. These findings highlight t
+he potential of combining LLM technology with immersive environments f
+or the functional rehabilitation of autistic children in the future.
+AU  - Cao, Yancheng
+AU  - He, Yangyang
+AU  - Chen, Yonglin
+AU  - Chen, Menghan
+AU  - You, Shanhe
+AU  - Qiu, Yulin
+AU  - Liu, Min
+AU  - Luo, Chuan
+AU  - Zheng, Chen
+AU  - Tong, Xin
+AU  - Liang, Jing
+AU  - Gong, Jiangtao
+C2  - 2025///
+C3  - Proceedings of the 30th International Conference on Intelligent User I
+nterfaces
+DO  - 10.1145/3708359.3712142
+ID  - 10.1145/3708359.3712
+KW  - autistic children
+KW  - LLM
+KW  - immersive environment
+KW  - social affordances
+KW  - traffic settings
+LB  - 10.1145/3708359.3712142
+PB  - Association for Computing Machinery
+SN  - 9798400713064
+SP  - 519-537
+T3  - IUI '25
+TI  - Designing LLM-simulated Immersive Spaces to Enhance Autistic Children'
+s Social Affordances Understanding in Traffic Settings
+UR  - https://doi.org/10.1145/3708359.3712142
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3652988
+LB  - 10.1145/3652988
+PB  - Association for Computing Machinery
+SN  - 9798400706257
+TI  - IVA '24: Proceedings of the 24th ACM International Conference on Intel
+ligent Virtual Agents
+ER  - 
+TY  - JOUR
+AB  - Text simplification (TS) reduces the complexity of the text to improve
+ its readability and understandability, while possibly retaining its o
+riginal information content. Over time, TS has become an essential too
+l in helping those with low literacy levels, non-native learners, and 
+those struggling with various types of reading comprehension problems.
+ In addition, it is used in a preprocessing stage to enhance other NLP
+ tasks. This survey presents an extensive study of current research st
+udies in the field of TS, as well as covering resources, corpora, and 
+evaluation methods that have been used in those studies.
+AU  - Al-Thanyyan, Suha S.
+AU  - Azmi, Aqil M.
+DA  - 2021/3//
+DO  - 10.1145/3442695
+ID  - 10.1145/3442695
+IS  - 2
+KW  - Text simplification
+KW  - lexical simplification
+KW  - monolingual machine translation
+KW  - survey
+KW  - syntactic simplification
+LB  - 10.1145/3442695
+SN  - 0360-0300
+T2  - ACM Comput. Surv.
+TI  - Automated Text Simplification: A Survey
+UR  - https://doi.org/10.1145/3442695
+VL  - 54
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3715669
+LB  - 10.1145/3715669
+PB  - Association for Computing Machinery
+SN  - 9798400714870
+TI  - ETRA '25: Proceedings of the 2025 Symposium on Eye Tracking Research a
+nd Applications
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3686215
+LB  - 10.1145/3686215
+PB  - Association for Computing Machinery
+SN  - 9798400704635
+TI  - ICMI Companion '24: Companion Proceedings of the 26th International Co
+nference on Multimodal Interaction
+ER  - 
+TY  - JOUR
+AB  - Robot-assisted language learning produces comparable results to human 
+tutors in a long-term study with elementary school children.
+AU  - Sandygulova, Anara
+AU  - Amir, Aida
+AU  - Oralbayeva, Nurziya
+AU  - Telisheva, Zhansaule
+AU  - Zhanatkyzy, Aida
+AU  - Shakerimov, Aidar
+AU  - Sarmonov, Shamil
+AU  - Aimysheva, Arna
+DA  - 2023/10//
+DO  - 10.1145/3611679
+ID  - 10.1145/3611679
+IS  - 1
+LB  - 10.1145/3611679
+SN  - 1528-4972
+SP  - 10-15
+T2  - XRDS
+TI  - QWriter: A Reinforcement Learning-Based Robot for Early Literacy Acqui
+sition
+UR  - https://doi.org/10.1145/3611679
+VL  - 30
+ER  - 
+TY  - CHAP
+AB  - Hearing parents of deaf and hard-of-hearing (DHH) children often strug
+gle to provide meaningful sign inputs while learning a new language th
+emselves. This work aims to understand the needs and challenges of hea
+ring parents to use American Sign Language (ASL) when interacting with
+ their DHH children, as well as preferences regarding AI-mediated comm
+unication technologies that support face-to-face interaction in ASL wi
+th DHH children. We adopted the technology probe design method to inve
+stigate key design elements that contribute to the usefulness of ASL r
+ecommendations and user autonomy in AI-mediated technologies. Findings
+ of a semi-structured interview study show that ASL recommendations ar
+e considered useful when they align with users’ needs, and offer diver
+sity and serendipity. In addition, participants desire more control ov
+er automatic recommendations, but more autonomy does not always guaran
+tee greater user satisfaction. We conclude with design insights for fu
+ture AI-mediated communication technologies for parent-child interacti
+ons.
+AU  - Li, Yifan
+AU  - Wang, Hecong
+AU  - Hossain, Ekram
+AU  - Mann, Madeleine
+AU  - Yu, Jingyan
+AU  - Newman, Kaleb Slater
+AU  - Bao, Ashley
+AU  - Willis, Athena
+AU  - Kurumada, Chigusa
+AU  - Hall, Wyatte C
+AU  - Bai, Zhen
+ID  - 10.1145/3713043.3727
+LB  - 10.1145/3713043.3727054
+PB  - Association for Computing Machinery
+PY  - 2025///
+SN  - 9798400714733
+SP  - 512-526
+T2  - Proceedings of the 24th Interaction Design and Children
+TI  - Leveraging Usefulness and Autonomy: Designing AI-Mediated ASL Communic
+ation Between Hearing Parents and Deaf Children
+UR  - https://doi.org/10.1145/3713043.3727054
+ER  - 
+TY  - CONF
+AB  - This study examined how different reading modes-human reader, reading 
+robot, and reading pen-impact young children's engagement and comprehe
+nsion. By analyzing physiological measures such as Electrodermal Activ
+ity (EDA) and Heart Rate Variability (HRV) alongside comprehension per
+formance, we aimed to assess the effectiveness of each mode and explor
+e the potential of robots as educational tools. Positioned between the
+ interactive human reader and the passive reading pen, the reading rob
+ot not only sustained engagement for the longest duration but also ach
+ieved the highest comprehension scores. The robot effectively balanced
+ emotional arousal and stress levels, facilitating enhanced cognitive 
+processing and information retention. Additionally, a positive correla
+tion was found between family technology use and both engagement and c
+omprehension with the robot. These findings suggest that interactive t
+echnology can enhance early childhood learning by bridging the gap bet
+ween human interaction and traditional learning tools.
+AU  - Zhao, Zhao
+AU  - McEwen, Rhonda
+C2  - 2025///
+C3  - Proceedings of the 2025 ACM/IEEE International Conference on Human-Rob
+ot Interaction
+ID  - 10.5555/3721488.3721
+KW  - physiological signal
+KW  - social robot
+KW  - wearables
+KW  - young children
+LB  - 10.5555/3721488.3721533
+PB  - IEEE Press
+SP  - 342-350
+T3  - HRI '25
+TI  - The Heartbeat of Engagement: Exploring Young Children's Interactions w
+ith a Reading Pen, Robot, and Human through Physiological Signals
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3663976
+LB  - 10.1145/3663976
+PB  - Association for Computing Machinery
+SN  - 9798400716607
+TI  - CVIPPR '24: Proceedings of the 2024 2nd Asia Conference on Computer Vi
+sion, Image Processing and Pattern Recognition
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3572549
+LB  - 10.1145/3572549
+PB  - Association for Computing Machinery
+SN  - 9781450397766
+TI  - ICETC '22: Proceedings of the 14th International Conference on Educati
+on Technology and Computers
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3629296
+LB  - 10.1145/3629296
+PB  - Association for Computing Machinery
+SN  - 9798400709111
+TI  - ICETC '23: Proceedings of the 15th International Conference on Educati
+on Technology and Computers
+ER  - 
+TY  - BOOK
+AB  - Welcome to the 18th ACM International Conference on Web and Data Minin
+g, this time taking place in Hannover, Germany.Many volunteers have he
+lped to provide excellent content for the conference, most of all the 
+3 PC Chairs, Meeyoung Cha (Max Planck Institute for Security and Priva
+cy in Germany), Francine Moens (KU Leuven, Belgium) and Marc Najork (G
+oogle DeepMind, USA), who selected more than 100 papers from over 600 
+submissions for presentation at the conference.This exciting WSDM 2025
+ main conference program was extended by interesting demonstrations li
+ke Lightning IR for fine-tuning and inference of transformer-based lan
+guage models for information retrieval, WildlifeLookup, a chatbot desi
+gned to facilitate wildlife management and Ventana a la Verdad, a chat
+bot for navigating Colombian civil conflict archives. Several workshop
+s ranging from language models to trust and verification on the Web co
+mplemented this program and provided important opportunities for the d
+iscussion of exciting new ideas and approaches.WSDM Cup 2025 challenge
+d more than 1000 competitors to create useful and efficient auto-rater
+ models that can accurately reflect human evaluations. This competitio
+n focused on the creation of multilingual auto-rater models using chat
+bot arena data, with exciting solutions. The WSDM 2025 Industry Day fe
+atured talks from leading companies on practical applications of web s
+earch and data mining. Some notable examples included zero-shot image 
+moderation in Google Ads, advancing Voice AI for E-commerce at Amazon,
+ and Fact-checking of multilingual podcasts. Finally, WSDM Day talks f
+ocused on medical research questions and topics, applying language mod
+els, knowledge graphs and other AI based approaches.For participants a
+iming to enter new research areas, the WSDM 2025 tutorials covered a b
+road range of topics, including Robust Information Retrieval, Building
+ Trustworthy AI Models for Medicine, Unifying Bias and Unfairness in I
+nformation Retrieval in the LLM Era, Advances in Vector Search and qui
+te a few more. And finally, three excellent invited speakers (Slav Pet
+rov from Google DeepMind and co-lead on Gemini, Roberto Navigli from S
+apienza University and Babelscape and Mario Fritz from CISPA) provided
+ exciting insights into the state of AI, about what large language mod
+els really understand, as well as privacy and security aspects of neur
+al models.
+DA  - 2025///
+ID  - 10.1145/3701551
+LB  - 10.1145/3701551
+PB  - Association for Computing Machinery
+SN  - 9798400713293
+TI  - WSDM '25: Proceedings of the Eighteenth ACM International Conference o
+n Web Search and Data Mining
+ER  - 
+TY  - BOOK
+AB  - It is our great pleasure to welcome you to the 17th ACM International 
+Conference on Web Search and Data Mining - WSDM 2024. WSDM is one of t
+he premier conferences in the fields of web search and data mining, wi
+th a dynamic and growing community from academia and industry. After t
+wo years of virtual conferences and in-person conferences in Singapore
+, the 2024 edition is an in-person conference with virtual elements. W
+e hope you enjoy the conference at the "Centro Internacional de Congre
+sos de Yucatan (CIC)" in Merida from March 4 to March 8, 2024.We are e
+xcited to kick off the program with a dynamic mix of Tutorials and Ind
+ustry Day. Our seven tutorials will cover a broad range of search and 
+data mining topics. Industry Day will provide valuable insights from l
+eaders at major technology companies. The core technical program conti
+nues WSDM's tradition of a single-track format, featuring 109 thought-
+provoking papers from both academic and industry experts. We're honore
+d to have inspiring keynote speakers each day: Nicolas Christin (CMU),
+ Elizabeth Reid (Google), and Saiph Savage (Civic A.I. Lab). Additiona
+lly, 17 interactive demonstrations will showcase the latest prototypes
+ and systems. The final day offers a stimulating Doctoral Consortium a
+nd six engaging workshops on topics including integrity in social netw
+orks, large language model for society, psychology-informed informatio
+n access system, interactive and scalable information retrieval system
+ and machine learning on graphs. WSDM 2024 proudly presents WSDM day o
+n information retrieval and Web in the region. WSDM Cup Day highlights
+ finalists' presentations addressing challenges in Conversational Mult
+i-Doc QA. This diverse and stimulating program promises to be an enric
+hing experience for all!.
+DA  - 2024///
+ID  - 10.1145/3616855
+LB  - 10.1145/3616855
+PB  - Association for Computing Machinery
+SN  - 9798400703713
+TI  - WSDM '24: Proceedings of the 17th ACM International Conference on Web 
+Search and Data Mining
+ER  - 
+TY  - JOUR
+AB  - Collaborative Virtual Environments (CVE) have shown potential to be an
+ effective social skill training platform for children with Autism Spe
+ctrum Disorders (ASD) to learn and practice collaborative and communic
+ation skills through peer interactions. However, most existing CVE sys
+tems require that appropriately matched partners be available at the s
+ame time to promote interaction, which limits their applicability to s
+ome community settings due to scheduling constraints. A second shortco
+ming of these more naturalistic peer-based designs is the intensive re
+sources required to manually code the unrestricted conversations that 
+occurred during the peer-based interactions. To preserve the benefits 
+of CVE-based platforms and mitigate some of the resource limitations r
+elated to peer availability, we developed an Intelligent Collaborative
+ Haptic-Gripper System (INC-Hg). This system provides an intelligent a
+gent partner who can understand, communicate, and haptically interact 
+with the user, without requiring the presence of another human peer. T
+he INC-Hg operates in real time and thus is able to perform collaborat
+ive training tasks at any time and at the user's pace. INC-Hg can also
+ record the real-time data regarding spoken language and task performa
+nce, thereby greatly reducing the resource burden of communication and
+ interaction performance analysis. A preliminary usability study with 
+10 participants with ASD (ages 8–12 years) indicated that the system c
+ould classify the participant's utterances into five classes with an a
+ccuracy of 70.34%, which suggested the potential of INC-Hg to automati
+cally recognize and analyze conversational content. The results also i
+ndicated high accuracies of the agent to initiate a conversation (97.5
+6%) and respond to the participants (86.52%), suggesting the capabilit
+y of the agent to conduct proper conversations with the participants. 
+Compared to the results of human-to-human collaborative tasks, the hum
+an-to-agent mode achieved higher average collaborative operation ratio
+ (61% compared to 40%) and comparable average frequencies for Initiati
+ons and Responses among the participants with ASD. These results offer
+ preliminary support as well as areas of improvement regarding the age
+nt's ability to respond to participants, work with participants to com
+plete tasks, engage in back-and-forth conversations, and support the p
+otential of the agent to be a useful partner for individuals with ASD 
+completing CVE tasks.
+AU  - Zhao, Huan
+AU  - Zaini Amat, Ashwaq
+AU  - Migovich, Miroslava
+AU  - Swanson, Amy
+AU  - Weitlauf, Amy S.
+AU  - Warren, Zachary
+AU  - Sarkar, Nilanjan
+DA  - 2022/3//
+DO  - 10.1145/3487606
+ID  - 10.1145/3487606
+IS  - 1
+KW  - Autism Spectrum Disorders
+KW  - AI techniques
+KW  - conversational agent
+KW  - social interaction
+KW  - collaborative virtual environments
+KW  - haptic interaction
+LB  - 10.1145/3487606
+SN  - 1936-7228
+T2  - ACM Trans. Access. Comput.
+TI  - INC-Hg: An Intelligent Collaborative Haptic-Gripper Virtual Reality Sy
+stem
+UR  - https://doi.org/10.1145/3487606
+VL  - 15
+ER  - 
+TY  - CONF
+AB  - End-users of augmentative and alternative communication (AAC) have div
+erse speech, cognitive, and motor abilities. AAC’s heterogeneous user 
+groups and persistent usability issues create a challenging and rich d
+esign space. Our work takes a value-sensitive design (VSD) approach to
+ develop a stakeholder value framework that describes stakeholders’ mu
+lti-dimensional roles and values. Our framework is based on (1) an emp
+irical investigation—a survey and interviews—of AAC users and AAC conv
+ersation partners and (2) a conceptual investigation—a systematic lite
+rature review—of AAC HCI research. Emergent value themes were ease, fu
+lfillment, acceptance, adaptation, safety, performance, autonomy, just
+ice, design fulfillment, and business fulfillment. These themes inform
+ how AAC end-users engage with AAC and how indirect stakeholders, such
+ as AAC technologists, make choices that ultimately impact AAC users. 
+Our stakeholder value framework and rich descriptions of AAC socio-tec
+hnical barriers can inform AAC designers in making ethically sound dec
+isions that support, not hinder, stakeholder values.
+AU  - Zolyomi, Annuska
+AU  - Koushik, Varsha
+AU  - Asyet, Dinara
+AU  - Huynh, Linh H
+C2  - 2025///
+C3  - Proceedings of the 2025 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3706598.3713584
+ID  - 10.1145/3706598.3713
+KW  - communication assistive technology
+KW  - value sensitive design
+KW  - stakeholder analysis
+LB  - 10.1145/3706598.3713584
+PB  - Association for Computing Machinery
+SN  - 9798400713941
+T3  - CHI '25
+TI  - A Stakeholder Value Framework for Augmentative and Alternative Communi
+cation
+UR  - https://doi.org/10.1145/3706598.3713584
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3563137
+LB  - 10.1145/3563137
+PB  - Association for Computing Machinery
+SN  - 9781450398077
+TI  - DSAI '22: Proceedings of the 10th International Conference on Software
+ Development and Technologies for Enhancing Accessibility and Fighting
+ Info-exclusion
+ER  - 
+TY  - BOOK
+A3  - Lugrin, Birgit
+A3  - Pelachaud, Catherine
+A3  - Traum, David
+AB  - The Handbook on Socially Interactive Agents provides a comprehensive o
+verview of the research fields of Embodied Conversational Agents, Inte
+lligent Virtual Agents, and Social Robotics. Socially Interactive Agen
+ts (SIAs), whether virtually or physically embodied, are autonomous ag
+ents that are able to perceive an environment including people or othe
+r agents, reason, and decide how to interact, and express attitudes su
+ch as emotions, engagement, or empathy. They are capable of interactin
+g with people and each other in a socially intelligent manner using mu
+ltimodal communicative behaviors with the goal to support humans in va
+rious domains.Written by international experts in their respective fie
+lds, the book summarizes research in the many important research commu
+nities pertinent for SIAs, while discussing current challenges and fut
+ure directions. The handbook provides easy access to modeling and stud
+ying SIAs for researchers and students and aims at further bridging th
+e gap between the research communities involved.In two volumes, the bo
+ok clearly structures the vast body of research. The first volume star
+ts by introducing what is involved in SIAs research, in particular res
+earch methodologies and ethical implications of developing SIAs. It fu
+rther examines research on appearance and behavior, focusing on multim
+odality. Finally, social cognition for SIAs is investigated by differe
+nt theoretical models and phenomena such as theory of mind or pro-soci
+ality. The second volume starts with perspectives on interaction, exam
+ined from different angles such as interaction in social space, group 
+interaction, or long-term interaction. It also includes an extensive o
+verview summarizing research and systems of human-agent platforms and 
+of some of the major application areas of SIAs such as education, agin
+g support, autism or games.
+DA  - 2022///
+ET  - 1
+ID  - 10.1145/3563659
+LB  - 10.1145/3563659
+PB  - Association for Computing Machinery
+SN  - 9781450398961
+TI  - The Handbook on Socially Interactive Agents: 20 years of Research on E
+mbodied Conversational Agents, Intelligent Virtual Agents, and Social 
+Robotics Volume 2: Interactivity, Platforms, Application
+VL  - 48
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3708359
+LB  - 10.1145/3708359
+PB  - Association for Computing Machinery
+SN  - 9798400713064
+TI  - IUI '25: Proceedings of the 30th International Conference on Intellige
+nt User Interfaces
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3706468
+LB  - 10.1145/3706468
+PB  - Association for Computing Machinery
+SN  - 9798400707018
+TI  - LAK '25: Proceedings of the 15th International Learning Analytics and 
+Knowledge Conference
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3713043
+LB  - 10.1145/3713043
+PB  - Association for Computing Machinery
+SN  - 9798400714733
+TI  - IDC '25: Proceedings of the 24th Interaction Design and Children
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3631991
+LB  - 10.1145/3631991
+PB  - Association for Computing Machinery
+SN  - 9798400708053
+TI  - WSSE '23: Proceedings of the 2023 5th World Symposium on Software Engi
+neering
+ER  - 
+TY  - CONF
+AB  - Social robots' contributions to education are notorious but, in times,
+ limited by the difficulty in their programming by regular teachers. O
+ur framework named R-CASTLE aims to overcome this problem by providing
+ the teachers with an easy way to program their content and the robot'
+s behavior through a graphical interface. However, the robot's behavio
+r adaptation algorithm maybe still not the best intuitive method for t
+eachers' understanding. Fuzzy systems have the advantage of being mode
+led in a more human-like way than other methods due to their implement
+ation based on linguistic variables and terms. Thus, fuzzy modeling fo
+r robot behavior adaptation in educational children-robot interactions
+ is proposed for this framework. The modeling resulted in an adaptatio
+n algorithm that considers a multimodal and autonomous assessment of t
+he students' skills: attention, communication, and learning. Furthermo
+re, preliminary experiments were performed considering videos with the
+ robot in a school environment. The adaptation was set to change the c
+ontent approach difficulty to produce a suitably challenging behavior 
+according to each students' reactions. Results were compared to a Rule
+-Based adaptive method. The fuzzy modeling showed similar accuracy to 
+the ruled-based method with a suggestion of a more intuitive interpret
+ation of the process.
+AU  - Tozadore, Daniel C.
+AU  - Romero, Roseli A. F.
+C2  - 2021///
+C3  - Companion Publication of the 2020 International Conference on Multimod
+al Interaction
+DO  - 10.1145/3395035.3425201
+ID  - 10.1145/3395035.3425
+KW  - adaptive systems
+KW  - children-robot interaction
+KW  - fuzzy systems
+KW  - multimodal assessment
+LB  - 10.1145/3395035.3425201
+PB  - Association for Computing Machinery
+SN  - 9781450380027
+SP  - 392-399
+T3  - ICMI '20 Companion
+TI  - Multimodal Fuzzy Assessment for Robot Behavioral Adaptation in Educati
+onal Children-Robot Interaction
+UR  - https://doi.org/10.1145/3395035.3425201
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3649902
+LB  - 10.1145/3649902
+PB  - Association for Computing Machinery
+SN  - 9798400706073
+TI  - ETRA '24: Proceedings of the 2024 Symposium on Eye Tracking Research a
+nd Applications
+ER  - 
+TY  - BOOK
+AB  - This volume contains the papers presented at the 23nd International Co
+nference on Intelligent Virtual Agents (IVA 2023) located in Würzburg,
+ Germany, from 19. to 22.09.2023.
+DA  - 2023///
+ID  - 10.1145/3570945
+LB  - 10.1145/3570945
+PB  - Association for Computing Machinery
+SN  - 9781450399944
+TI  - IVA '23: Proceedings of the 23rd ACM International Conference on Intel
+ligent Virtual Agents
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3588015
+LB  - 10.1145/3588015
+PB  - Association for Computing Machinery
+SN  - 9798400701504
+TI  - ETRA '23: Proceedings of the 2023 Symposium on Eye Tracking Research a
+nd Applications
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3698587
+LB  - 10.1145/3698587
+PB  - Association for Computing Machinery
+SN  - 9798400713026
+TI  - BCB '24: Proceedings of the 15th ACM International Conference on Bioin
+formatics, Computational Biology and Health Informatics
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3640543
+LB  - 10.1145/3640543
+PB  - Association for Computing Machinery
+SN  - 9798400705083
+TI  - IUI '24: Proceedings of the 29th International Conference on Intellige
+nt User Interfaces
+ER  - 
+TY  - CONF
+AB  - Traditional symbol-based AAC devices impose meta-linguistic and memory
+ demands on individuals with complex communication needs and hinder co
+nversation partners from stimulating symbolic language in meaningful m
+oments. This work presents a prototype application that generates situ
+ation-specific communication boards formed by a combination of descrip
+tive, narrative, and semantic related words and phrases inferred autom
+atically from photographs. Through semi-structured interviews with AAC
+ professionals, we investigate how this prototype was used to support 
+communication and language learning in naturalistic school and therapy
+ settings. We find that the immediacy of vocabulary reduces conversati
+on partners’ workload, opens up opportunities for AAC stimulation, and
+ facilitates symbolic understanding and sentence construction. We cont
+ribute a nuanced understanding of how vocabularies generated automatic
+ally from photographs can support individuals with complex communicati
+on needs in using and learning symbolic AAC, offering insights into th
+e design of automatic vocabulary generation methods and interfaces to 
+better support various scenarios of use and goals.
+AU  - Vargas, Mauricio
+AU  - Dai, Jiamin
+AU  - Moffatt, Karyn
+C2  - 2022///
+C3  - Proceedings of the 24th International ACM SIGACCESS Conference on Comp
+uters and Accessibility
+DO  - 10.1145/3517428.3544805
+ID  - 10.1145/3517428.3544
+KW  - Augmentative and Alternative Communication
+KW  - autism
+KW  - automatic
+KW  - just-in-time
+LB  - 10.1145/3517428.3544805
+PB  - Association for Computing Machinery
+SN  - 9781450392587
+T3  - ASSETS '22
+TI  - AAC with Automated Vocabulary from Photographs: Insights from School a
+nd Speech-Language Therapy Settings
+UR  - https://doi.org/10.1145/3517428.3544805
+ER  - 
+TY  - JOUR
+AB  - Online settings have been suggested as viable sites for youth to devel
+op social, emotional, and technical skills that can positively shape t
+heir behavior online. However, little work has been done to understand
+ how online governance structures might support (or hinder) such learn
+ing. Using mixed-methods research, we report findings from a 2-year, i
+n-the-wild study of 8–13 year olds on a custom multiplayer Minecraft s
+erver. The two-part study focuses on the design of youth-centered mode
+ls of community governance drawn from evidence-based offline practices
+ in the prevention and learning sciences. Preliminary results point to
+ a set of socio-technical design approaches shaping player behavior wh
+ile also supporting youth interest in Minecraft-like online environmen
+ts. More broadly, the findings suggest an alternative vision of youth’
+s capacity for ownership and control of mechanisms shaping the culture
+ and climate of their online communities: managing player behavior whi
+le challenging current norms around adult control and surveillance of 
+youth activity.
+AU  - Tekinbaş, Katie Salen
+AU  - Jagannath, Krithika
+AU  - Lyngs, Ulrik
+AU  - Slovák, Petr
+DA  - 2021/7//
+DO  - 10.1145/3450290
+ID  - 10.1145/3450290
+IS  - 4
+KW  - Online Governance
+KW  - community governance
+KW  - community moderation and management
+KW  - conflict resolution
+KW  - minecraft
+KW  - multiplayer online games
+KW  - positive youth development
+KW  - prosocial
+KW  - rules and community behavior
+KW  - social and emotional learning
+KW  - social competence
+LB  - 10.1145/3450290
+SN  - 1073-0516
+T2  - ACM Trans. Comput.-Hum. Interact.
+TI  - Designing for Youth-Centered Moderation and Community Governance in Mi
+necraft
+UR  - https://doi.org/10.1145/3450290
+VL  - 28
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3630970
+LB  - 10.1145/3630970
+PB  - Association for Computing Machinery
+SN  - 9798400716577
+TI  - CLIHC '23: Proceedings of the XI Latin American Conference on Human Co
+mputer Interaction
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3641343
+LB  - 10.1145/3641343
+PB  - Association for Computing Machinery
+SN  - 9798400716775
+TI  - ICEITSA '23: Proceedings of the 3rd International Conference on Electr
+onic Information Technology and Smart Agriculture
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3703847
+LB  - 10.1145/3703847
+PB  - Association for Computing Machinery
+SN  - 9798400709746
+TI  - SHWID '24: Proceedings of the 2024 International Conference on Smart H
+ealthcare and Wearable Intelligent Devices
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3577190
+LB  - 10.1145/3577190
+PB  - Association for Computing Machinery
+SN  - 9798400700552
+TI  - ICMI '23: Proceedings of the 25th International Conference on Multimod
+al Interaction
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3697355
+LB  - 10.1145/3697355
+PB  - Association for Computing Machinery
+SN  - 9798400717529
+TI  - BDIOT '24: Proceedings of the 2024 8th International Conference on Big
+ Data and Internet of Things
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3536221
+LB  - 10.1145/3536221
+PB  - Association for Computing Machinery
+SN  - 9781450393904
+TI  - ICMI '22: Proceedings of the 2022 International Conference on Multimod
+al Interaction
+ER  - 
+TY  - BOOK
+AB  - We are delighted to welcome you to Melbourne, Australia for ACM Multim
+edia 2024, the 32nd ACM International Conference on Multimedia. ACM Mu
+ltimedia is the premier international conference series in the area of
+ multimedia within the field of computer science. Since 1993, ACM Mult
+imedia has been bringing together worldwide researchers and practition
+ers from academia and industry to present their innovative research an
+d to discuss recent advancements in multimedia.For the first time sinc
+e the end of the COVID-19 pandemic, this year's conference returns to 
+the Asia-Pacific region and resumes as a full-fledged, inperson event.
+ With no travel restrictions or significant visa challenges, we are ex
+cited to once again experience the warmth of face-to-face gatherings, 
+where we can reconnect with colleagues and friends.The enthusiasm and 
+support from the community have been incredible. ACM Multimedia 2024 r
+eceived over 4,300 main conference submissions, accepting more than 1,
+100 papers (please refer to the TPC Chairs' message for details). In a
+ddition, 10 Grand Challenges were selected from 22 submissions, 18 wor
+kshops from 30 submissions, and 8 tutorials from 13 proposals. We've p
+repared an exciting five-day program: workshops, grand challenges, and
+ tutorials will be held on the 1st and 5th days, with the main confere
+nce occupying the middle three days. All accepted papers will be acces
+sible online prior to the conference, and we are working to ensure pro
+ceedings are available through the ACM Digital Library around the conf
+erence period.This year's conference features three distinguished acad
+emic keynote speeches, several prestigious SIGMM award talks, a panel 
+discussion on Generative AI in Multimedia, a refreshed Brave New Idea 
+(BNI) session, and our inaugural industry program.The opening keynote 
+will be delivered by Prof. Pascale Fung from HKUST, a Fellow of AAAI, 
+ACL, and IEEE. Her talk will explore the pressing topic of Agents in t
+he Large Language Model (LLM) Era. Prof. Judy Kay from the University 
+of Sydney, a renowned expert in HCI, user modeling, and ubiquitous com
+puting, will give the second keynote on how to empower individuals to 
+harness and control their multimodal data. The final academic keynote 
+will be presented by Prof. Jiebo Luo from the University of Rochester,
+ a Fellow of ACM, AAAI, IEEE, SPIE, and IAPR, as well as a member of A
+cademia Europaea and the US National Academy of Inventors. He will dis
+cuss leveraging LLMs as social multimedia analysis engines.This year, 
+we continue using OpenReview to ensure an open and transparent review 
+process. Thanks to the exceptional efforts of the technical program co
+mmittee, every paper received at least three reviews before the review
+ announcement. The BNI track has also revamped its review process to a
+lign with the main conference, promoting visionary papers. Additionall
+y, we are excited to introduce the industry program to ACM Multimedia 
+for the first time, featuring industry keynote speeches, expert talks,
+ and demonstrations (please refer to the industry chairs' message for 
+further details).We are also committed to making the conference inclus
+ive and accessible. To support students with financial constraints, we
+ have awarded travel grants to at least 25 students from the ACM Multi
+media 2024 budget, with an additional 20+ students receiving SIGMM tra
+vel grants. Over 20 local students have also been recruited as volunte
+ers, benefiting from complimentary registration. Furthermore, we have 
+arranged childcare facilities to accommodate attendees with young chil
+dren. A welcome reception will take place on the 2nd day of the confer
+ence, followed by a gala dinner on the 3rd day, featuring exciting cul
+tural performances.We hope you find this year's program engaging and t
+hought-provoking and that it offers valuable opportunities to exchange
+ ideas with fellow researchers and practitioners from around the globe
+. We also encourage you to take time to explore the beautiful city of 
+Melbourne and its surrounding regions.
+DA  - 2024///
+ID  - 10.1145/3664647
+LB  - 10.1145/3664647
+PB  - Association for Computing Machinery
+SN  - 9798400706868
+TI  - MM '24: Proceedings of the 32nd ACM International Conference on Multim
+edia
+ER  - 
+TY  - BOOK
+A3  - Oviatt, Sharon
+A3  - Schuller, Björn
+A3  - Cohen, Philip R.
+A3  - Sonntag, Daniel
+A3  - Potamianos, Gerasimos
+A3  - Krüger, Antonio
+AB  - The Handbook of Multimodal-Multisensor Interfaces provides the first a
+uthoritative resource on what has become the dominant paradigm for new
+ computer interfaces: user input involving new media (speech, multi-to
+uch, hand and body gestures, facial expressions, writing) embedded in 
+multimodal-multisensor interfaces that often include biosignals.This e
+dited collection is written by international experts and pioneers in t
+he field. It provides a textbook, reference, and technology roadmap fo
+r professionals working in this and related areas.This second volume o
+f the handbook begins with multimodal signal processing, architectures
+, and machine learning. It includes recent deep-learning approaches fo
+r processing multisensorial and multimodal user data and interaction, 
+as well as context-sensitivity. A further highlight is processing of i
+nformation about users' states and traits, an exciting emerging capabi
+lity in next-generation user interfaces. These chapters discuss real-t
+ime multimodal analysis of emotion and social signals from various mod
+alities and perception of affective expression by users. Further chapt
+ers discuss multimodal processing of cognitive state using behavioral 
+and physiological signals to detect cognitive load, domain expertise, 
+deception, and depression. This collection of chapters provides walk-t
+hrough examples of system design and processing, information on tools 
+and practical resources for developing and evaluating new systems, and
+ terminology, and tutorial support for mastering this rapidly expandin
+g field. In the final section of this volume, experts exchange views o
+n the timely and controversial challenge topic of multimodal deep lear
+ning. The discussion focuses on how multimodal-multisensor interfaces 
+are most likely to advance human performance during the next decade.
+DA  - 2018///
+ID  - 10.1145/3107990
+LB  - 10.1145/3107990
+PB  - Association for Computing Machinery
+SN  - 9781970001716
+TI  - The Handbook of Multimodal-Multisensor Interfaces: Signal Processing, 
+Architectures, and Detection of Emotion and Cognition - Volume 2
+VL  - 21
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3675888
+LB  - 10.1145/3675888
+PB  - Association for Computing Machinery
+SN  - 9798400709722
+TI  - IC3-2024: Proceedings of the 2024 Sixteenth International Conference o
+n Contemporary Computing
+ER  - 
+TY  - BOOK
+AB  - Welcome to UbiComp/ISWC 2024, the companion program of two premier con
+ferences: The 2024 ACM International Joint Conference on Pervasive and
+ Ubiquitous Computing (UbiComp 2024) and the 2024 International Sympos
+ium on Wearable Computers (ISWC 2024). UbiComp and ISWC are premier in
+terdisciplinary venues for international researchers, designers, devel
+opers, practitioners and educators in the field to present and discuss
+ novel and impactful research in interactive, mobile, wearable and ubi
+quitous computing. The companion program has traditionally been a very
+ important part of the UbiComp/ISWC conference series.UbiComp/ISWC 202
+4 is held from October 5 to 9, 2024 in Melbourne, Australia. Originall
+y, UbiComp/ISWC was scheduled to take place in Melbourne in 2021. Howe
+ver, due to the significant impact of COVID-19, our community decided 
+to postpone conferences taking place in their traditional form until l
+ast year, when UbiComp took place as an in-person event in Mexico. Now
+, in 2024 we look to consolidate the strength and ties in our communit
+y by having another fully in-person event and hoping to welcome a new 
+generation of researchers to meet and explore the wonderful people tha
+t make up our community.
+DA  - 2024///
+ID  - 10.1145/3675094
+LB  - 10.1145/3675094
+PB  - Association for Computing Machinery
+SN  - 9798400710582
+TI  - UbiComp '24: Companion of the 2024 on ACM International Joint Conferen
+ce on Pervasive and Ubiquitous Computing
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3584931
+LB  - 10.1145/3584931
+PB  - Association for Computing Machinery
+SN  - 9798400701290
+TI  - CSCW '23 Companion: Companion Publication of the 2023 Conference on Co
+mputer Supported Cooperative Work and Social Computing
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3628096
+LB  - 10.1145/3628096
+PB  - Association for Computing Machinery
+SN  - 9798400708879
+TI  - AfriCHI '23: Proceedings of the 4th African Human Computer Interaction
+ Conference
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3691573
+LB  - 10.1145/3691573
+PB  - Association for Computing Machinery
+SN  - 9798400709791
+TI  - SVR '24: Proceedings of the 26th Symposium on Virtual and Augmented Re
+ality
+ER  - 
+TY  - CONF
+AB  - The goal of the study is to reveal the correlation between speech pecu
+liarities and different aspects of development of children with autism
+ spectrum disorders. The participants in the study were 28 children wi
+th autism spectrum disorders (ASD) aged 4-11 years and 64 adults - lis
+tening to children's speech samples. Children with ASD were divided in
+to two groups: ASD-1 - ASD is the leading symptom (F84, n=17); childre
+n assigned to ASD-2 (n=11) had other disorders accompanied by ASD symp
+tomatology (F83 + F84). Recording of children's speech and behavior wa
+s carried out in the most similar situations: a dialogue with the expe
+rimenter, viewing pictures and retelling a story about them or answers
+ to questions, book reading. The child's psychophysiological character
+istics were estimated according to the method which includes determini
+ng the leading hemisphere by speech (dichotic listening test - DLT), p
+honemic hearing, and the profile of lateral functional asymmetry (PLFA
+). All tasks and the time of the study were adapted to the child's cap
+acities. The study analyzed the level of speech formation in 4-11 year
+-old children with ASD, identified direct and indirect relationships b
+etween the features of early development, its psychophysiological indi
+cators, and the speech development level at the time of the study. The
+ ability of adults to recognize the psychoneurological state of childr
+en via their speech is determined. The results of the study support th
+e need to increase focus on and understanding of the language strength
+s and weaknesses in children with ASD and an individual approach to te
+aching children.
+AU  - Lyakso, Elena E.
+AU  - Frolova, Olga V.
+C2  - 2021///
+C3  - Companion Publication of the 2020 International Conference on Multimod
+al Interaction
+DO  - 10.1145/3395035.3425183
+ID  - 10.1145/3395035.3425
+KW  - Russian language
+KW  - atypical development
+KW  - child speech acoustics
+KW  - speech ontogenesis
+KW  - typical development
+LB  - 10.1145/3395035.3425183
+PB  - Association for Computing Machinery
+SN  - 9781450380027
+SP  - 514-521
+T3  - ICMI '20 Companion
+TI  - Early Development Indicators Predict Speech Features of Autistic Child
+ren
+UR  - https://doi.org/10.1145/3395035.3425183
+ER  - 
+TY  - JOUR
+AB  - Current mechanisms for adopting and supporting high-tech augmentative 
+and alternative communication (AAC) within special-education appear li
+mited in their success, despite recognition of the potential benefits 
+they represent for young emerging communicators. Prior research in thi
+s field has been restricted to discrete survey or interview methodolog
+ies. We present a five-month mixed-methods ethnographic study in a spe
+cial-education school to explore the facilitators and barriers experie
+nced by those using technology, with children who have little or no fu
+nctional speech, to stimulate communication and language comprehension
+. Our analysis supports the outcomes of earlier studies, but also furn
+ishes novel insights into the scale and urgency of addressing the prob
+lem—with implications for user-centred design within this community. W
+e highlight infrastructure, policy, and recruitment deficits, and prop
+ose a two-fold solution: (i) an increase in engagement with this popul
+ation through the provision of enhanced, user-centred support; and (ii
+) induction of the cross-disciplinary role of Assistive Technologist, 
+to serve as mediator between teacher, aided communicator, and their as
+sistive technology. This work represents a contribution towards establ
+ishing more effective operational, interactional, and pedagogical supp
+ort for learners using high-tech communication devices.
+AU  - Norrie, Christopher S.
+AU  - Waller, Annalu
+AU  - Hannah, Elizabeth F. S.
+DA  - 2021/4//
+DO  - 10.1145/3446205
+ID  - 10.1145/3446205
+IS  - 2
+KW  - Augmentative and alternative communication; assistive technology; spec
+ial-education; human-computer interaction; user-centred design; langua
+ge acquisition; early intervention
+LB  - 10.1145/3446205
+SN  - 1073-0516
+T2  - ACM Trans. Comput.-Hum. Interact.
+TI  - Establishing Context: AAC Device Adoption and Support in a Special-Edu
+cation Setting
+UR  - https://doi.org/10.1145/3446205
+VL  - 28
+ER  - 
+TY  - CONF
+AB  - The paper introduces Reflex, a mirrored camera mobile game for childre
+n and adolescents, especially those with Neuro-Developmental Disorder.
+ The game, offered through a cross-platform application for smart-phon
+es and tablets, bridges the digital and the physical worlds by trackin
+g, via a bottom-looking mirror positioned on the device camera, physic
+al items placed on the table. This new interaction paradigm, its co-de
+signed features and the first pilot study reveals an unexplored potent
+ial for learning.
+AU  - Gelsomini, Mirko
+C2  - 2018///
+C3  - Extended Abstracts of the 2018 CHI Conference on Human Factors in Comp
+uting Systems
+DO  - 10.1145/3170427.3180302
+ID  - 10.1145/3170427.3180
+KW  - accessibility
+KW  - autism
+KW  - cardboard
+KW  - children
+KW  - disability
+KW  - down syndrome
+KW  - learning
+KW  - mirror
+LB  - 10.1145/3170427.3180302
+PB  - Association for Computing Machinery
+SN  - 9781450356213
+SP  - 1-6
+T3  - CHI EA '18
+TI  - Reflex: Learning Beyond the Screen in a Simple, Fun, and Affordable Wa
+y
+UR  - https://doi.org/10.1145/3170427.3180302
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3613905
+LB  - 10.1145/3613905
+PB  - Association for Computing Machinery
+SN  - 9798400703317
+TI  - CHI EA '24: Extended Abstracts of the CHI Conference on Human Factors 
+in Computing Systems
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3623809
+LB  - 10.1145/3623809
+PB  - Association for Computing Machinery
+SN  - 9798400708244
+TI  - HAI '23: Proceedings of the 11th International Conference on Human-Age
+nt Interaction
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3681716
+LB  - 10.1145/3681716
+PB  - Association for Computing Machinery
+SN  - 9798400718236
+TI  - Mindtrek '24: Proceedings of the 27th International Academic Mindtrek 
+Conference
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3677525
+LB  - 10.1145/3677525
+PB  - Association for Computing Machinery
+SN  - 9798400710940
+TI  - GoodIT '24: Proceedings of the 2024 International Conference on Inform
+ation Technology for Social Good
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3627377
+LB  - 10.1145/3627377
+PB  - Association for Computing Machinery
+SN  - 9798400707667
+TI  - ICBDT '23: Proceedings of the 2023 6th International Conference on Big
+ Data Technologies
+ER  - 
+TY  - BOOK
+AB  - Welcome one and all to the 19th Annual ACM/IEEE International Conferen
+ce on Human-Robot Interaction (HRI)!We are so pleased to re-welcome th
+e HRI community to Boulder, Colorado, where HRI 2021 would have been h
+eld, had the COVID pandemic not interfered. Following up on the succes
+sful in-person conference held last year in Sweden, this year's theme 
+is "HRI in the Real World," and focuses on advances that aim to bring 
+human-robot interaction out of the lab and into everyday life.One aspe
+ct of this that we are very excited about is the introduction of a rob
+ot challenge to the conference activities, where teams from around the
+ world will showcase their research and development via actual, intera
+ctive robots in the "real world" of an academic conference. It is our 
+hope that this feature will grow and develop over the coming years int
+o a staple of the HRI conference.This year's HRI conference saw an imp
+ressive surge in global interest, with 352 full paper submissions from
+ around the world, marking a significant 40% increase compared to the 
+previous year. These papers were categorized under relevant thematic s
+ubcommittees and underwent a double-blind review process, a rebuttal p
+hase, and selective shepherding by the HRI program committee. From thi
+s process, 87 outstanding papers (24.7%) were chosen for full presenta
+tion at the conference. Reflecting our joint sponsorship with IEEE and
+ ACM, all accepted papers will be accessible in the ACM Digital Librar
+y and IEEE Xplore.
+DA  - 2024///
+ID  - 10.1145/3610978
+LB  - 10.1145/3610978
+PB  - Association for Computing Machinery
+SN  - 9798400703232
+TI  - HRI '24: Companion of the 2024 ACM/IEEE International Conference on Hu
+man-Robot Interaction
+ER  - 
+TY  - JOUR
+AB  - Sentence Simplification (SS) aims to modify a sentence in order to mak
+e it easier to read and understand. In order to do so, several rewriti
+ng transformations can be performed such as replacement, reordering, a
+nd splitting. Executing these transformations while keeping sentences 
+grammatical, preserving their main idea, and generating simpler output
+, is a challenging and still far from solved problem. In this article,
+ we survey research on SS, focusing on approaches that attempt to lear
+n how to simplify using corpora of aligned original-simplified sentenc
+e pairs in English, which is the dominant paradigm nowadays. We also i
+nclude a benchmark of different approaches on common data sets so as t
+o compare them and highlight their strengths and limitations. We expec
+t that this survey will serve as a starting point for researchers inte
+rested in the task and help spark new ideas for future developments.
+AU  - Alva-Manchego, Fernando
+AU  - Scarton, Carolina
+AU  - Specia, Lucia
+DA  - 2020/3//
+DO  - 10.1162/coli_a_00370
+ID  - 10.1162/coli_a_00370
+IS  - 1
+LB  - 10.1162/coli_a_00370
+SN  - 0891-2017
+SP  - 135-187
+T2  - Comput. Linguist.
+TI  - Data-Driven Sentence Simplification: Survey and Benchmark
+UR  - https://doi.org/10.1162/coli_a_00370
+VL  - 46
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3661167
+LB  - 10.1145/3661167
+PB  - Association for Computing Machinery
+SN  - 9798400717017
+TI  - EASE '24: Proceedings of the 28th International Conference on Evaluati
+on and Assessment in Software Engineering
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3670947
+LB  - 10.1145/3670947
+PB  - Association for Computing Machinery
+SN  - 9798400718281
+TI  - GI '24: Proceedings of the 50th Graphics Interface Conference
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3629606
+LB  - 10.1145/3629606
+PB  - Association for Computing Machinery
+SN  - 9798400716454
+TI  - CHCHI '23: Proceedings of the Eleventh International Symposium of Chin
+ese CHI
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3568739
+LB  - 10.1145/3568739
+PB  - Association for Computing Machinery
+SN  - 9781450398091
+TI  - ICDTE '22: Proceedings of the 6th International Conference on Digital 
+Technology in Education
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3680533
+LB  - 10.1145/3680533
+PB  - Association for Computing Machinery
+SN  - 9798400711367
+TI  - SA '24: SIGGRAPH Asia 2024 Educator's Forum
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3630106
+LB  - 10.1145/3630106
+PB  - Association for Computing Machinery
+SN  - 9798400704505
+TI  - FAccT '24: Proceedings of the 2024 ACM Conference on Fairness, Account
+ability, and Transparency
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3608164
+LB  - 10.1145/3608164
+PB  - Association for Computing Machinery
+SN  - 9798400700385
+TI  - ICBBT '23: Proceedings of the 2023 15th International Conference on Bi
+oinformatics and Biomedical Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3652037
+LB  - 10.1145/3652037
+PB  - Association for Computing Machinery
+SN  - 9798400717604
+TI  - PETRA '24: Proceedings of the 17th International Conference on PErvasi
+ve Technologies Related to Assistive Environments
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3607947
+LB  - 10.1145/3607947
+PB  - Association for Computing Machinery
+SN  - 9798400700224
+TI  - IC3-2023: Proceedings of the 2023 Fifteenth International Conference o
+n Contemporary Computing
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3626641
+LB  - 10.1145/3626641
+PB  - Association for Computing Machinery
+SN  - 9798400708503
+TI  - SIET '23: Proceedings of the 8th International Conference on Sustainab
+le Information Engineering and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3679318
+LB  - 10.1145/3679318
+PB  - Association for Computing Machinery
+SN  - 9798400709661
+TI  - NordiCHI '24: Proceedings of the 13th Nordic Conference on Human-Compu
+ter Interaction
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3573428
+LB  - 10.1145/3573428
+PB  - Association for Computing Machinery
+SN  - 9781450397148
+TI  - EITCE '22: Proceedings of the 2022 6th International Conference on Ele
+ctronic Information Technology and Computer Engineering
+ER  - 
+TY  - BOOK
+DA  - 2021///
+ID  - 10.1145/3411763
+LB  - 10.1145/3411763
+PB  - Association for Computing Machinery
+SN  - 9781450380959
+TI  - CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Fac
+tors in Computing Systems
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3699682
+LB  - 10.1145/3699682
+PB  - Association for Computing Machinery
+SN  - 9798400713132
+TI  - UMAP '25: Proceedings of the 33rd ACM Conference on User Modeling, Ada
+ptation and Personalization
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3585088
+LB  - 10.1145/3585088
+PB  - Association for Computing Machinery
+SN  - 9798400701313
+TI  - IDC '23: Proceedings of the 22nd Annual ACM Interaction Design and Chi
+ldren Conference
+ER  - 
+TY  - CONF
+AB  - Objective: Through computerised analysis of writing ability assessment
+ data, the aim was to compare the effectiveness of two generations of 
+hardware smart writing devices in the application of children's writin
+g performance ability from 6 to 12 years of age, and to provide data s
+upport for accurate screening and assessment of those with writing dif
+ficulties. Methods: A cross-sectional study was conducted to assess th
+e writing performance ability of primary school students in grades 2∼6
+ (a total of 555) in a primary school in Fuzhou City, Fujian Province,
+ China, using the Smart Handwriting Analysis Recognition Platform (SHA
+RP). The assessment indicators included writing speed, writing control
+, writing integration, and time-on-paper ratio. Results: All four writ
+ing assessment indicators of boys and girls performed better than the 
+first generation of the second-generation smart writing device (p&lt;0
+.05). Comparing the writing performance ability of students in differe
+nt grades:①writing speed: except for students in grade 4, students in 
+all grades and all students in grades 2∼6 performed better than one ge
+neration in the second-generation intelligent writing device (p&lt;0.0
+5); ②writing integration: except for students in grade 2, students in 
+grades 3∼6 performed better than one generation in the second-generati
+on intelligent writing device (p&lt;0.05) in terms of writing integrat
+ion ability;③Writing control and time-on-paper ratio: the writing cont
+rol and time-on-paper ratio of students in grades 2∼6 performed better
+ in the second-generation smart writing device than in the first gener
+ation (p&lt;0.05). Conclusion: ①On the second-generation smart writing
+ device, the vast majority of students achieved superiority over the f
+irst-generation device in the ability of all four writing assessment i
+ndexes, but the differences between the two generations of the device 
+in writing speed for grade 4 students and writing control for grade 2 
+students did not reach the level of significance.②Writing speed, writi
+ng control, writing integration, and time-on-paper ratio have key role
+s in assessing overall writing performance, and can more comprehensive
+ly and accurately reflect the differences in overall writing performan
+ce between the two generations of intelligent writing devices. ③The si
+gnificant advantages of the second-generation smart writing devices in
+ improving students' writing ability also point to possible room for i
+mprovement in specific grade levels or ability dimensions.
+AU  - Han, Ping
+AU  - Yang, Wenyi
+AU  - Yang, Caihong
+AU  - Wu, Jing
+AU  - Xiao, Jie
+AU  - Lan, Yajing
+AU  - Zeng, Yiyang
+AU  - Wu, Ruoning
+AU  - Zeng, Yi
+C2  - 2024///
+C3  - Proceedings of the 2024 International Conference on Smart Healthcare a
+nd Wearable Intelligent Devices
+DO  - 10.1145/3703847.3703871
+ID  - 10.1145/3703847.3703
+KW  - children
+KW  - computerization
+KW  - two generations of intelligent writing devices
+KW  - writing difficulties
+KW  - writing performance
+LB  - 10.1145/3703847.3703871
+PB  - Association for Computing Machinery
+SN  - 9798400709746
+SP  - 133-143
+T3  - SHWID '24
+TI  - A Comparative Study of Two Generations of Hardware Intelligent Writing
+ Devices Used for Chinese Character Writing Performance Ability of 6∼1
+2 Years Old Children
+UR  - https://doi.org/10.1145/3703847.3703871
+ER  - 
+TY  - CONF
+AB  - There is evidence that cognitive and executive functions are mental ca
+pabilities that children need in order to successfully learn in school
+. Serious Games (SG) and Games for Health (G4H) have been extensively 
+used as tools to promote health and well-being in children. Cognitive 
+games are a type of educational games which focus on enhancing cogniti
+ve functioning in children with different profiles of executive functi
+ons and cognitive development. We propose a system for self-regulated 
+cognitive training for children, which enables the child to reflect on
+ their own progress, weaknesses and strengths, and self-arrange their 
+training materials, promoting self-regulated learning skills. We provi
+de a narrative review of research in cognitive training for children a
+nd in explainable recommendation systems for children in educational s
+ettings. Based on the review, an experimental testbed is proposed to e
+xplore how transparency, explainability and persuasive strategies can 
+be used to promote self-regulated learning skills in children, conside
+ring individual differences on abilities, preferences, and needs.
+AU  - Tsiakas, Konstantinos
+AU  - Barakova, Emilia
+AU  - Khan, Javed Vassilis
+AU  - Markopoulos, Panos
+C2  - 2020///
+C3  - Proceedings of the 13th ACM International Conference on PErvasive Tech
+nologies Related to Assistive Environments
+DO  - 10.1145/3389189.3398004
+ID  - 10.1145/3389189.3398
+KW  - cognitive training for children
+KW  - explainable recommendations
+KW  - personalization
+KW  - self-regulation
+LB  - 10.1145/3389189.3398004
+PB  - Association for Computing Machinery
+SN  - 9781450377737
+T3  - PETRA '20
+TI  - BrainHood: towards an explainable recommendation system for self-regul
+ated cognitive training in children
+UR  - https://doi.org/10.1145/3389189.3398004
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3663548
+LB  - 10.1145/3663548
+PB  - Association for Computing Machinery
+SN  - 9798400706776
+TI  - ASSETS '24: Proceedings of the 26th International ACM SIGACCESS Confer
+ence on Computers and Accessibility
+ER  - 
+TY  - BOOK
+AB  - On behalf of the Organizing Committee, I extend a warm welcome to you 
+at the 39th Annual ACM Symposium on Applied Computing (SAC 2024), taki
+ng place in Ávila, Spain, and hosted by the University of Salamanca. F
+or more than three decades, this international forum has been dedicate
+d to computer scientists, engineers, and practitioners, providing a pl
+atform for presenting their research findings and results in various a
+reas of applied computing. The organizing committee sincerely apprecia
+tes your participation in this exciting international event, and we ho
+pe that the conference proves interesting and beneficial for all atten
+dees.
+DA  - 2024///
+ID  - 10.1145/3605098
+LB  - 10.1145/3605098
+PB  - Association for Computing Machinery
+SN  - 9798400702433
+TI  - SAC '24: Proceedings of the 39th ACM/SIGAPP Symposium on Applied Compu
+ting
+ER  - 
+TY  - BOOK
+DA  - 2016///
+ID  - 10.1145/2993148
+LB  - 10.1145/2993148
+PB  - Association for Computing Machinery
+SN  - 9781450345569
+TI  - ICMI '16: Proceedings of the 18th ACM International Conference on Mult
+imodal Interaction
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3628516
+LB  - 10.1145/3628516
+PB  - Association for Computing Machinery
+SN  - 9798400704420
+TI  - IDC '24: Proceedings of the 23rd Annual ACM Interaction Design and Chi
+ldren Conference
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3606150
+LB  - 10.1145/3606150
+PB  - Association for Computing Machinery
+SN  - 9798400707353
+TI  - ICFET '23: Proceedings of the 2023 9th International Conference on Fro
+ntiers of Educational Technologies
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3605390
+LB  - 10.1145/3605390
+PB  - Association for Computing Machinery
+SN  - 9798400708060
+TI  - CHItaly '23: Proceedings of the 15th Biannual Conference of the Italia
+n SIGCHI Chapter
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3582515
+LB  - 10.1145/3582515
+PB  - Association for Computing Machinery
+SN  - 9798400701160
+TI  - GoodIT '23: Proceedings of the 2023 ACM Conference on Information Tech
+nology for Social Good
+ER  - 
+TY  - CONF
+AB  - Social robots are becoming increasingly prevalent in the real world. U
+nsupervised user interactions in a natural and familiar setting, such 
+as the home, can reveal novel design insights and opportunities. This 
+paper presents an analysis and key design insights from family-robot i
+nteractions, captured via on-robot recordings during an unsupervised f
+our-week in-home deployment of an autonomous reading companion robot f
+or children. We analyzed interviews and 160 interaction videos involvi
+ng six families who regularly interacted with a robot for four weeks. 
+Throughout these interactions, we observed how the robot's expressions
+ facilitated unique interactions with the child, as well as how family
+ members interacted with the robot. In conclusion, we discuss five des
+ign opportunities derived from our analysis of natural interactions in
+ the wild.
+AU  - Michaelis, Joseph E.
+AU  - Cagiltay, Bengisu
+AU  - Ibtasar, Rabia
+AU  - Mutlu, Bilge
+C2  - 2023///
+C3  - Proceedings of the 2023 ACM/IEEE International Conference on Human-Rob
+ot Interaction
+DO  - 10.1145/3568162.3576978
+ID  - 10.1145/3568162.3576
+KW  - child-robot interactions
+KW  - in-home
+KW  - in-the-wild
+KW  - reading
+KW  - social robots
+LB  - 10.1145/3568162.3576978
+PB  - Association for Computing Machinery
+SN  - 9781450399647
+SP  - 378-387
+T3  - HRI '23
+TI  - "Off Script:" Design Opportunities Emerging from Long-Term Social Robo
+t Interactions In-the-Wild
+UR  - https://doi.org/10.1145/3568162.3576978
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3701571
+LB  - 10.1145/3701571
+PB  - Association for Computing Machinery
+SN  - 9798400712838
+TI  - MUM '24: Proceedings of the International Conference on Mobile and Ubi
+quitous Multimedia
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3597638
+LB  - 10.1145/3597638
+PB  - Association for Computing Machinery
+SN  - 9798400702204
+TI  - ASSETS '23: Proceedings of the 25th International ACM SIGACCESS Confer
+ence on Computers and Accessibility
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3628797
+LB  - 10.1145/3628797
+PB  - Association for Computing Machinery
+SN  - 9798400708916
+TI  - SOICT '23: Proceedings of the 12th International Symposium on Informat
+ion and Communication Technology
+ER  - 
+TY  - CHAP
+AU  - Kory-Westlund, Jacqueline M.
+AU  - Won Park, Hae
+AU  - Grover, Ishaan
+AU  - Breazeal, Cynthia
+ET  - 1
+ID  - 10.1145/3563659.3563
+LB  - 10.1145/3563659.3563667
+PB  - Association for Computing Machinery
+PY  - 2022///
+SN  - 9781450398961
+SP  - 195-260
+T2  - The Handbook on Socially Interactive Agents: 20 Years of Research on E
+mbodied Conversational Agents, Intelligent Virtual Agents, and Social 
+Robotics Volume 2: Interactivity, Platforms, Application
+TI  - Long-Term Interaction with Relational SIAs
+UR  - https://doi.org/10.1145/3563659.3563667
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3626705
+LB  - 10.1145/3626705
+PB  - Association for Computing Machinery
+SN  - 9798400709210
+TI  - MUM '23: Proceedings of the 22nd International Conference on Mobile an
+d Ubiquitous Multimedia
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3544793
+LB  - 10.1145/3544793
+PB  - Association for Computing Machinery
+SN  - 9781450394239
+TI  - UbiComp/ISWC '22 Adjunct: Adjunct Proceedings of the 2022 ACM Internat
+ional Joint Conference on Pervasive and Ubiquitous Computing and the 2
+022 ACM International Symposium on Wearable Computers
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3568444
+LB  - 10.1145/3568444
+PB  - Association for Computing Machinery
+SN  - 9781450398206
+TI  - MUM '22: Proceedings of the 21st International Conference on Mobile an
+d Ubiquitous Multimedia
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3657242
+LB  - 10.1145/3657242
+PB  - Association for Computing Machinery
+SN  - 9798400717871
+TI  - Interacción '24: Proceedings of the XXIV International Conference on H
+uman Computer Interaction
+ER  - 
+TY  - BOOK
+AB  - Welcome to CHIWORK 2025, the 4th Annual Symposium on Human-Computer In
+teraction for Work to be held at Centrum Wiskunde &amp; Informatica (C
+WI) in Amsterdam, The Netherlands.CHIWORK is the annual symposium that
+ aims to grow our understanding of how Human-Computer Interaction (HCI
+) will support work in the future. Advances in Computing technology ar
+e rapidly changing the way we work. Human-computer interaction (HCI) i
+s a critical aspect of this ongoing change, as a way to support worker
+s in successfully navigating fast-paced changes in working environment
+s, which might include novel computing devices, new sensing and work(e
+r) wellbeing and performance measurement techniques, interacting with 
+AI agents, and the new roles for people in work environments where aut
+omation is increasing.
+DA  - 2025///
+ID  - 10.1145/3729176
+LB  - 10.1145/3729176
+PB  - Association for Computing Machinery
+SN  - 9798400713842
+TI  - CHIWORK '25: Proceedings of the 4th Annual Symposium on Human-Computer
+ Interaction for Work
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3715275
+LB  - 10.1145/3715275
+PB  - Association for Computing Machinery
+SN  - 9798400714825
+TI  - FAccT '25: Proceedings of the 2025 ACM Conference on Fairness, Account
+ability, and Transparency
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3623509
+LB  - 10.1145/3623509
+PB  - Association for Computing Machinery
+SN  - 9798400704024
+TI  - TEI '24: Proceedings of the Eighteenth International Conference on Tan
+gible, Embedded, and Embodied Interaction
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3698061
+LB  - 10.1145/3698061
+PB  - Association for Computing Machinery
+SN  - 9798400712890
+TI  - C&amp;C '25: Proceedings of the 2025 Conference on Creativity and Cogn
+ition
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3586182
+LB  - 10.1145/3586182
+PB  - Association for Computing Machinery
+SN  - 9798400700965
+TI  - UIST '23 Adjunct: Adjunct Proceedings of the 36th Annual ACM Symposium
+ on User Interface Software and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3674805
+LB  - 10.1145/3674805
+PB  - Association for Computing Machinery
+SN  - 9798400710476
+TI  - ESEM '24: Proceedings of the 18th ACM/IEEE International Symposium on 
+Empirical Software Engineering and Measurement
+ER  - 
+TY  - BOOK
+AB  - The 2025 ACM Web Conference (WWW '25) took place from April 28 to May 
+2, 2025, in the Sydney Convention &amp; Exhibition Centre, Australia. 
+Its logo, featuring the Sydney Harbour Bridge, symbolizes the core "co
+nnecting" function of the Web. Formerly known as the International Wor
+ld Wide Web Conference (WWW), this event originated at CERN in 1994 an
+d has long served as the premier venue for presenting and discussing r
+esearch, development, standards, and applications related to the Web.T
+he 2025 ACM Web Conference (WWW'25) took place from April 28 to May 2,
+ 2025, in the Sydney Convention &amp; Exhibition Centre, Australia. It
+s logo, featuring the Sydney Harbour Bridge, symbolizes the core "conn
+ecting" function of the Web. Formerly known as the International World
+ Wide Web Conference (WWW), this event originated at CERN in 1994 and 
+has long served as the premier venue for presenting and discussing res
+earch, development, standards, and applications related to the Web.Bet
+ween 2024 and 2025, large language models (LLMs) significantly impacte
+d nearly every industry and many aspects of daily life, prompting tran
+sformations in the Web's ecosystem. Acknowledging the importance of LL
+Ms in advancing Web technologies, the call for papers (CFP) across ten
+ research tracks was slightly modified. Three program chairs - Liane L
+ewin-Eytan, Helen Huang, and Elad Yom-Tov - led the program committee,
+ which used OpenReview to evaluate and accept the research track paper
+s.
+DA  - 2025///
+ID  - 10.1145/3696410
+LB  - 10.1145/3696410
+PB  - Association for Computing Machinery
+SN  - 9798400712746
+TI  - WWW '25: Proceedings of the ACM on Web Conference 2025
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3568812
+LB  - 10.1145/3568812
+PB  - Association for Computing Machinery
+SN  - 9781450399753
+TI  - ICER '23: Proceedings of the 2023 ACM Conference on International Comp
+uting Education Research - Volume 2
+VL  - 2
+ER  - 
+TY  - BOOK
+AB  - Welcome to the 47th Annual International ACM SIGIR Conference on Resea
+rch and Development in Information Retrieval (SIGIR 2024), taking plac
+e in Washington D.C., USA, from July 14 to 18, 2024.SIGIR serves as th
+e foremost international forum for the presentation of groundbreaking 
+research findings, the demonstration of innovative systems and techniq
+ues, and the exploration of forwardthinking research directions in the
+ field of information retrieval.This year's SIGIR is an in-person conf
+erence. We believe that an in-person conference is beneficial for seve
+ral reasons: it fosters direct engagement and networking opportunities
+, enhances the exchange of research ideas, contributes to a more dynam
+ic and productive conference experience, and nurtures our research com
+munity by welcoming newcomers, providing them with the opportunity to 
+become acquainted with SIGIR traditions. This decision has not been ma
+de lightly. We understand the challenges that can pose in the aftermat
+h of a pandemic and amidst the uncertainties of the world around us. T
+o accommodate those who cannot attend, we have implemented a series of
+ measures such as proxy presenters, livestreaming, and recording sessi
+ons. These steps are taken to ensure that everyone has access to the v
+aluable content that the conference offers.
+DA  - 2024///
+ID  - 10.1145/3626772
+LB  - 10.1145/3626772
+PB  - Association for Computing Machinery
+SN  - 9798400704314
+TI  - SIGIR '24: Proceedings of the 47th International ACM SIGIR Conference 
+on Research and Development in Information Retrieval
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3627050
+LB  - 10.1145/3627050
+PB  - Association for Computing Machinery
+SN  - 9798400708541
+TI  - IoT '23: Proceedings of the 13th International Conference on the Inter
+net of Things
+ER  - 
+TY  - BOOK
+AB  - Welcome to the third volume of ASPLOS'24: the 29th ACM International C
+onference on Architectural Support for Programming Languages and Opera
+ting Systems. This document is mostly dedicated to the 2024 fall cycle
+ but also provides some statistics summarizing all three cycles.We int
+roduced several notable changes to ASPLOS this year, most of which wer
+e discussed in our previous messages from program chairs in Volume 1 a
+nd 2, including: (1) significantly increasing the program committee si
+ze to over 220 members (more than twice the size of last year); (2) fo
+regoing synchronous program committee (PC) meetings and instead making
+ all decisions online; (3) overhauling the review assignment process; 
+(4) developing an automated submission format violation identifier scr
+ipt that uncovers, e.g., disallowed vertical space manipulations that 
+"squeeze" space; (5) introducing the new ASPLOS role of Program Vice C
+hairs to cope with the increased number of submissions and the added l
+oad caused by foregoing synchronous program committee; and (6) charact
+erizing a systematic problem that ASPLOS is facing in reviewing quantu
+m computing submissions, describing how we addressed it and highlighti
+ng how we believe that it should be handled in the future.Assuming rea
+ders have read our previous messages, here, we will only describe diff
+erences between the current cycle and the previous ones. These include
+: (1) Finally unifying submission and acceptance paper formatting inst
+ructions (forgoing the `jpaper' class) to rid authors of accepted pape
+rs from the need to reformat; (2) Describing the methodology we employ
+ed to select best papers, which we believe ensures quality and hope wi
+ll persist; and (3) Reporting the ethical incidents we encountered and
+ how we handled them. In the final, fourth volume, when the outcome of
+ the ASPLOS'24 fall major revisions will become known, we plan to cond
+uct a broader analysis of all the data we have gathered throughout the
+ year.Following are some key statistics of the fall cycle: 340 submiss
+ions were finalized (43% more than last year's fall count and 17% less
+ than our summer cycle) of which 111 are related to accelerators/FPGAs
+/GPUs, 105 to machine learning, 54 to security, 50 to datacenter/cloud
+ and 50 to storage/memory; 183 (54%) submissions were promoted to the 
+second review round; 39 (11.5%) papers were accepted (of which 19 were
+ awarded artifact evaluation badges); 33 (9.7%) submissions were allow
+ed to submit major revisions and are currently under review (these wil
+l be addressed in the fourth volume of ASPLOS'24 and will be presented
+ in ASPLOS'25 if accepted); 1,368 reviews were uploaded; and 4,949 com
+ments were generated during online discussions, of which 4,070 were de
+dicated to the submissions that made it to the second review round.Thi
+s year, in the submission form, we asked authors to specify which of t
+he three ASPLOS research areas are related to their submitted work. An
+alyzing this data revealed that 80%, 39%, and 29% of the submissions a
+re categorized by their authors as related to architecture, operating 
+systems, and programming languages, respectively, generating the highe
+st difference we have observed across the cycles between architecture 
+and the other two. About 46% of the fall submissions are "interdiscipl
+inary," namely, were associated with two or more of the three areas.Ov
+erall, throughout all the ASPLOS'24 cycles, we received 922 submission
+s, constituting a 1.54x increase compared to last year. Our reviewers 
+submitted a total of 3,634 reviews containing more than 2.6 million wo
+rds, and we also generated 12,655 online comments consisting of nearly
+ 1.2 million words. As planned, PC members submitted an average of 15.
+7 reviews and a median of 15, and external review committee (ERC) memb
+ers submitted an average of 4.7 and a median of 5.We accepted 170 pape
+rs thus far, written by 1100 authors, leading to an 18.4% acceptance r
+ate, with the aforementioned 33 major revisions still under review. As
+suming that the revision acceptance rate will be similar to that of pr
+evious cycles, we estimate that ASPLOS'24 will accept nearly 200 (!) p
+apers, namely, 21%–22% of the submissions.The ASPLOS'24 program consis
+ts of 193 papers: the 170 papers we accepted thus far and, in addition
+, 23 major revisions from the fall cycle of ASPLOS'23, which were re-r
+eviewed and accepted. The full details are available in the PDF of the
+ front matter.
+DA  - 2024///
+ID  - 10.1145/3620666
+LB  - 10.1145/3620666
+PB  - Association for Computing Machinery
+SN  - 9798400703867
+TI  - ASPLOS '24: Proceedings of the 29th ACM International Conference on Ar
+chitectural Support for Programming Languages and Operating Systems, V
+olume 3
+VL  - 3
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3591106
+LB  - 10.1145/3591106
+PB  - Association for Computing Machinery
+SN  - 9798400701788
+TI  - ICMR '23: Proceedings of the 2023 ACM International Conference on Mult
+imedia Retrieval
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3680127
+LB  - 10.1145/3680127
+PB  - Association for Computing Machinery
+SN  - 9798400717802
+TI  - ICEGOV '24: Proceedings of the 17th International Conference on Theory
+ and Practice of Electronic Governance
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3555776
+LB  - 10.1145/3555776
+PB  - Association for Computing Machinery
+SN  - 9781450395175
+TI  - SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Compu
+ting
+ER  - 
+TY  - BOOK
+AB  - It is our great pleasure to welcome you to ISSTA 2023, the 32nd editio
+n of the International Symposium on Software Testing and Analysis, to 
+be held on July 18–20, 2023 in Seattle, USA. The symposium has become 
+a premier scientific event in the expanding area of software testing a
+nd analysis, with a strong appeal to researchers from all continents.
+DA  - 2023///
+ID  - 10.1145/3597926
+LB  - 10.1145/3597926
+PB  - Association for Computing Machinery
+SN  - 9798400702211
+TI  - ISSTA 2023: Proceedings of the 32nd ACM SIGSOFT International Symposiu
+m on Software Testing and Analysis
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3543174
+LB  - 10.1145/3543174
+PB  - Association for Computing Machinery
+SN  - 9781450394154
+TI  - AutomotiveUI '22: Proceedings of the 14th International Conference on 
+Automotive User Interfaces and Interactive Vehicular Applications
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3544549
+LB  - 10.1145/3544549
+PB  - Association for Computing Machinery
+SN  - 9781450394222
+TI  - CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Fac
+tors in Computing Systems
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3487553
+LB  - 10.1145/3487553
+PB  - Association for Computing Machinery
+SN  - 9781450391306
+TI  - WWW '22: Companion Proceedings of the Web Conference 2022
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.5555/3694718
+LB  - 10.5555/3694718
+PB  - IEEE Press
+SN  - 9798350399318
+TI  - JCDL '23: Proceedings of the 2023 ACM/IEEE Joint Conference on Digital
+ Libraries
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3551349
+LB  - 10.1145/3551349
+PB  - Association for Computing Machinery
+SN  - 9781450394758
+TI  - ASE '22: Proceedings of the 37th IEEE/ACM International Conference on 
+Automated Software Engineering
+ER  - 
+TY  - BOOK
+AB  - Welcome to the 55th annual SIGCSE Technical Symposium on Computer Scie
+nce Education (SIGCSE TS 2024)! This year, we have returned to Portlan
+d, Oregon. We hope that, like us, you are looking forward to a highly 
+productive and engaging symposium that provides ample opportunity to r
+enew old relationships, build new connections, and learn about the lat
+est advances in our field. While we are sure that there will be a few 
+surprises along the way, we hope and expect that we won't experience a
+nything nearly as disruptive as the opening days of the pandemic, whic
+h occurred when we last tried to gather here in 2020.Our theme for thi
+s year's symposium is "Blazing New Trails in CS Education." This broad
+ theme captures the exceptional work being performed by this community
+ to enhance our teaching, improve our assessments, attract diverse stu
+dents, and all of the other laudable projects, initiatives, and undert
+akings that affect positive change. The breadth of the program is subs
+tantial - there truly should be something for everyone. In fact, your 
+biggest challenge may be deciding which session to attend in each time
+ slot because there is so much going on! We know that many of you want
+ to attend as many sessions as possible while you are here in Portland
+, but we encourage you to also find a little bit of time for yourself 
+so that you leave Portland refreshed, renewed and encouraged, rather t
+han exhausted or burnt out.
+DA  - 2024///
+ID  - 10.1145/3626252
+LB  - 10.1145/3626252
+PB  - Association for Computing Machinery
+SN  - 9798400704239
+TI  - SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Comput
+er Science Education V. 1
+ER  - 
+TY  - JOUR
+AB  - Non-cognitive skills are crucial for personal and social life well-bei
+ng, and such skill development can be supported by narrative-based (e.
+g., storytelling) technologies. While generative AI enables interactiv
+e and role-playing storytelling, little is known about how users engag
+e with and perceive the use of AI in social life simulation for non-co
+gnitive skills learning. Additionally, the benefits of AI mentorship o
+n self-reflection awareness and ability in this context remain largely
+ underexplored. To this end, we introduced Simulife++, an interactive 
+platform enabled by a large language model (LLM). The system allows us
+ers to act as protagonists, creating stories with one or multiple AI-b
+ased characters in diverse social scenarios. In particular, we expande
+d the Human-AI interaction to a Human-AI-AI collaboration by including
+ a Sage Agent, who acts as a bystander, providing users with some pers
+pectives and guidance on their choices and conversations in terms of n
+on-cognitive skills to promote reflection. In a within-subject user st
+udy, our quantitative results reveal that, when accompanied by Sage Ag
+ent, users exhibit significantly higher levels of reflection on motiva
+tion, self-perceptions, and resilience &amp; coping, along with an enh
+anced experience of narrative transportation. Additionally, our qualit
+ative findings suggest that Sage Agent plays a crucial role in promoti
+ng reflection on non-cognitive skills, enhancing social communication 
+and decision-making performance, and improving overall user experience
+ within Simulife++. Multiple supportive relationships between Sage Age
+nt and users were also reported. We offer design implications for the 
+application of generative AI in narrative solutions and the future pot
+ential of Sage Agent for non-cognitive skill development in broader so
+cial contexts. Our quantitative data and code are released at https://
+github.com/yzihan/Simulife.
+AU  - Yan, Zihan
+AU  - Xiang, Yaohong
+DA  - 2025/5//
+DO  - 10.1145/3711068
+ID  - 10.1145/3711068
+IS  - 2
+KW  - generative AI
+KW  - narrative
+KW  - non-cognitive skill
+KW  - social life simulation
+LB  - 10.1145/3711068
+T2  - Proc. ACM Hum.-Comput. Interact.
+TI  - Social Life Simulation for Non-Cognitive Skills Learning
+UR  - https://doi.org/10.1145/3711068
+VL  - 9
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3593013
+LB  - 10.1145/3593013
+PB  - Association for Computing Machinery
+SN  - 9798400701924
+TI  - FAccT '23: Proceedings of the 2023 ACM Conference on Fairness, Account
+ability, and Transparency
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3640794
+LB  - 10.1145/3640794
+PB  - Association for Computing Machinery
+SN  - 9798400705113
+TI  - CUI '24: Proceedings of the 6th ACM Conference on Conversational User 
+Interfaces
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3639474
+LB  - 10.1145/3639474
+PB  - Association for Computing Machinery
+SN  - 9798400704987
+TI  - ICSE-SEET '24: Proceedings of the 46th International Conference on Sof
+tware Engineering: Software Engineering Education and Training
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3603555
+LB  - 10.1145/3603555
+PB  - Association for Computing Machinery
+SN  - 9798400707711
+TI  - MuC '23: Proceedings of Mensch und Computer 2023
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3627508
+LB  - 10.1145/3627508
+PB  - Association for Computing Machinery
+SN  - 9798400704345
+TI  - CHIIR '24: Proceedings of the 2024 Conference on Human Information Int
+eraction and Retrieval
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3638067
+LB  - 10.1145/3638067
+PB  - Association for Computing Machinery
+SN  - 9798400717154
+TI  - IHC '23: Proceedings of the XXII Brazilian Symposium on Human Factors 
+in Computing Systems
+ER  - 
+TY  - CONF
+AB  - A goal of Human Computer Interaction / Human Factors research with res
+pect to creativity and cognition has been to develop principled heuris
+tics that can both inform design of software, hardware and their envir
+onments, as well as offer a foundation for evaluation metrics. Work in
+ two areas seems to offer strong candidates for a principled design an
+d evaluative approach to creativity based on neural-cognitive analysis
+: (a) neuroscience in its mapping of creative acts to brain area and f
+unction, and (b) human performance assessing physical activity on cogn
+ition. In this paper we review the research in both these areas and pr
+opose example opportunities for design and evaluation informed by this
+ research. We suggest as well both that the creativity and cognition c
+ommunity is ideally placed to extend neural "creativity cognition" res
+earch and that working from such a foundation may significantly reconf
+igure knowledge work software, hardware and work environment design.
+AU  - schraefel, m.c.
+C2  - 2014///
+C3  - Proceedings of HCI Korea
+ID  - 10.5555/2729485.2729
+KW  - cognition
+KW  - creativity
+KW  - human performance
+KW  - neuroscience
+LB  - 10.5555/2729485.2729509
+PB  - Hanbit Media, Inc.
+SN  - 9788968487521
+SP  - 153-161
+T3  - HCIK '15
+TI  - Burn the chair, we're wired to move: exploring the brain/body connexio
+n for HCI creativity &amp; cognition
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3677846
+LB  - 10.1145/3677846
+PB  - Association for Computing Machinery
+SN  - 9798400710308
+TI  - W4A '24: Proceedings of the 21st International Web for All Conference
+ER  - 
+TY  - CONF
+AB  - With the increasing usage of mental health applications (MHAs), there 
+is growing concern regarding their data privacy practices. Analyzing 4
+37 user reviews from 83 apps, we outline users’ predominant privacy an
+d security concerns with currently available apps. We then compare tho
+se concerns to criteria from two prominent app evaluation websites – P
+rivacy Not Included and One Mind PsyberGuide. Our findings show that M
+HA users have myriad data privacy and security concerns including a us
+er’s control over their own data, but these concerns do not often over
+lap with those of experts from evaluation websites who focus more on i
+ssues such as required password strength. We highlight this disconnect
+ and propose solutions in how the mental health care ecosystem can pro
+vide better guidance to MHA users and experts from the fields of priva
+cy and security and mental health technology in choosing and evaluatin
+g, respectively, potentially useful mental health apps.
+AU  - Khoo, Yi Xuan
+AU  - Kang, Rachael M.
+AU  - Reynolds, Tera L.
+AU  - Mentis, Helena M.
+C2  - 2024///
+C3  - Proceedings of the 2024 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3613904.3642705
+ID  - 10.1145/3613904.3642
+KW  - apps
+KW  - mental health
+KW  - privacy
+KW  - security
+LB  - 10.1145/3613904.3642705
+PB  - Association for Computing Machinery
+SN  - 9798400703300
+T3  - CHI '24
+TI  - “That’s Kind of Sus(picious)”: The Comprehensiveness of Mental Health 
+Application Users’ Privacy and Security Concerns
+UR  - https://doi.org/10.1145/3613904.3642705
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3613904
+LB  - 10.1145/3613904
+PB  - Association for Computing Machinery
+SN  - 9798400703300
+TI  - CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - CONF
+AB  - Voice-based Conversational Agents (CAs) are increasingly being used by
+ children. Through a review of 38 research papers, this work maps tren
+ds, themes, and methods of empirical research on children and CAs in H
+CI research over the last decade. A thematic analysis of the research 
+found that work in this domain focuses on seven key topics: ascribing 
+human-like qualities to CAs, CAs? support of children?s learning, the 
+use and role of CAs in the home and family context, CAs? support of ch
+ildren?s play, children?s storytelling with CA, issues concerning the 
+collection of information revealed by CAs, and CAs designed for childr
+en with differing abilities. Based on our findings, we identify the ne
+eds to account for children’s intersectional identities and linguistic
+ and cultural diversity and theories from multiple disciples in the de
+sign of CAs, develop heuristics for child-centric interaction with CAs
+, to investigate implications of CAs on social cognition and interpers
+onal relationships, and to examine and design for multi-party interact
+ions with CAs for different domains and contexts.
+AU  - Garg, Radhika
+AU  - Cui, Hua
+AU  - Seligson, Spencer
+AU  - Zhang, Bo
+AU  - Porcheron, Martin
+AU  - Clark, Leigh
+AU  - Cowan, Benjamin R.
+AU  - Beneteau, Erin
+C2  - 2022///
+C3  - Proceedings of the 2022 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3491102.3502016
+ID  - 10.1145/3491102.3502
+KW  - children
+KW  - conversational agents
+KW  - family
+KW  - literature review
+KW  - parents
+KW  - smart speakers
+KW  - systematic literature review
+KW  - virtual assistants
+KW  - voice agents
+KW  - voice interfaces
+KW  - voice user interfaces
+LB  - 10.1145/3491102.3502016
+PB  - Association for Computing Machinery
+SN  - 9781450391573
+T3  - CHI '22
+TI  - The Last Decade of HCI Research on Children and Voice-based Conversati
+onal Agents
+UR  - https://doi.org/10.1145/3491102.3502016
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3695053
+LB  - 10.1145/3695053
+PB  - Association for Computing Machinery
+SN  - 9798400712616
+TI  - ISCA '25: Proceedings of the 52nd Annual International Symposium on Co
+mputer Architecture
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3701625
+LB  - 10.1145/3701625
+PB  - Association for Computing Machinery
+SN  - 9798400717772
+TI  - SBQS '24: Proceedings of the XXIII Brazilian Symposium on Software Qua
+lity
+ER  - 
+TY  - BOOK
+AB  - ICSE is the leading and by far the largest conference in Software Engi
+neering, attracting researchers, practitioners and students from aroun
+d the world. ICSE2023 is co-located with 10 conferences and symposia t
+his year, many long-established and prestigious venues in their own ri
+ght.
+DA  - 2023///
+ID  - 10.5555/3606010
+LB  - 10.5555/3606010
+PB  - IEEE Press
+SN  - 9781665457019
+TI  - ICSE '23: Proceedings of the 45th International Conference on Software
+ Engineering
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3555858
+LB  - 10.1145/3555858
+PB  - Association for Computing Machinery
+SN  - 9781450397957
+TI  - FDG '22: Proceedings of the 17th International Conference on the Found
+ations of Digital Games
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3586183
+LB  - 10.1145/3586183
+PB  - Association for Computing Machinery
+SN  - 9798400701320
+TI  - UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interfa
+ce Software and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3654777
+LB  - 10.1145/3654777
+PB  - Association for Computing Machinery
+SN  - 9798400706288
+TI  - UIST '24: Proceedings of the 37th Annual ACM Symposium on User Interfa
+ce Software and Technology
+ER  - 
+TY  - BOOK
+DA  - 2024///
+ID  - 10.1145/3639701
+LB  - 10.1145/3639701
+PB  - Association for Computing Machinery
+SN  - 9798400705038
+TI  - IMX '24: Proceedings of the 2024 ACM International Conference on Inter
+active Media Experiences
+ER  - 
+TY  - JOUR
+AB  - What is here called controlled natural language CNL has traditionally 
+been given many different names. Especially during the last four decad
+es, a wide variety of such languages have been designed. They are appl
+ied to improve communication among humans, to improve translation, or 
+to provide natural and intuitive representations for formal notations.
+ Despite the apparent differences, it seems sensible to put all these 
+languages under the same umbrella. To bring order to the variety of la
+nguages, a general classification scheme is presented here. A comprehe
+nsive survey of existing English-based CNLs is given, listing and desc
+ribing 100 languages from 1930 until today. Classification of these la
+nguages reveals that they form a single scattered cloud filling the co
+nceptual space between natural languages such as English on the one en
+d and formal languages such as propositional logic on the other. The g
+oal of this article is to provide a common terminology and a common mo
+del for CNL, to contribute to the understanding of their general natur
+e, to provide a starting point for researchers interested in the area,
+ and to help developers to make design decisions.
+AU  - Kuhn, Tobias
+DA  - 2014/3//
+DO  - 10.1162/COLI_a_00168
+ID  - 10.1162/COLI_a_00168
+IS  - 1
+LB  - 10.1162/COLI_a_00168
+SN  - 0891-2017
+SP  - 121-170
+T2  - Comput. Linguist.
+TI  - A survey and classification of controlled natural languages
+UR  - https://doi.org/10.1162/COLI_a_00168
+VL  - 40
+ER  - 
+TY  - BOOK
+AB  - Welcome to RESPECT 2024! The Conference on Research in Equity and Sust
+ained Participation in Engineering, Computing, and Technology is the p
+remier venue for research on equity, inclusion, and justice in computi
+ng and computing education. This volume contains the papers presented 
+at RESPECT 2024, the ninth edition of this conference, held on May 16-
+17, 2024 at the Georgia Tech Conference Center and Hotel in Atlanta, G
+eorgia.As researchers, especially those of us focused on equity, freed
+om, and justice, our job is to give language to and make meaning of th
+e joy, trauma, and unwavering spirit of the most vulnerable and margin
+alized among us. We don't do this simply to shed light but to influenc
+e change. We stand when others are forced to sit and speak when others
+ are silenced. For many of us, the past several years have rendered ou
+r usual tools ineffective, and often we find ourselves seated, scared 
+to stand, and essentially silenced as we search for new language to de
+scribe old problems. We increasingly, and rightfully, feel frustrate..
+. powerles... angry. Unfortunately, we sometimes allow these feelings 
+to lead us to inaction. However, as the Black feminist scholar Audre L
+orde wrote in her masterpiece, Sister Outsider, anger, directed in pro
+ductive ways, can be transformative.
+DA  - 2024///
+ID  - 10.1145/3653666
+LB  - 10.1145/3653666
+PB  - Association for Computing Machinery
+SN  - 9798400706264
+TI  - RESPECT 2024: Proceedings of the 2024 on RESPECT Annual Conference
+ER  - 
+TY  - CONF
+AB  - Social robots are emerging as learning companions for children, and re
+search shows that they facilitate the development of interest and lear
+ning even through brief interactions. However, little is known about h
+ow such technologies might support these goals in authentic environmen
+ts over long-term periods of use and interaction. We designed a learni
+ng companion robot capable of supporting children reading popular-scie
+nce books by expressing social and informational commentaries. We depl
+oyed the robot in homes of 14 families with children aged 10–12 for fo
+ur weeks during the summer. Our analysis revealed critical factors tha
+t affected children’s long-term engagement and adoption of the robot, 
+including external factors such as vacations, family visits, and extra
+curricular activities; family/parental involvement; and children’s ind
+ividual interests. We present four in-depth cases that illustrate thes
+e factors and demonstrate their impact on children’s reading experienc
+es and discuss the implications of our findings for robot design.
+AU  - Cagiltay, Bengisu
+AU  - White, Nathan Thomas
+AU  - Ibtasar, Rabia
+AU  - Mutlu, Bilge
+AU  - Michaelis, Joseph
+C2  - 2022///
+C3  - Proceedings of the 21st Annual ACM Interaction Design and Children Con
+ference
+DO  - 10.1145/3501712.3529747
+ID  - 10.1145/3501712.3529
+KW  - child-robot interactions
+KW  - in-home
+KW  - long-term
+KW  - reading companion
+LB  - 10.1145/3501712.3529747
+PB  - Association for Computing Machinery
+SN  - 9781450391979
+SP  - 362-373
+T3  - IDC '22
+TI  - Understanding Factors that Shape Children’s Long Term Engagement with 
+an In-Home Learning Companion Robot
+UR  - https://doi.org/10.1145/3501712.3529747
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3629479
+LB  - 10.1145/3629479
+PB  - Association for Computing Machinery
+SN  - 9798400707865
+TI  - SBQS '23: Proceedings of the XXII Brazilian Symposium on Software Qual
+ity
+ER  - 
+TY  - BOOK
+AB  - It is our great pleasure to welcome you to &lt;I&gt;The Web Conference
+ 2019&lt;/I&gt;. The Web Conference is the premier venue focused on un
+derstanding the current state and the evolution of the Web through the
+ lens of computer science, computational social science, economics, po
+licy, and many other disciplines. The 2019 edition of the conference i
+s a reflection point as we celebrate the 30th anniversary of the Web.
+DA  - 2019///
+ID  - 10.1145/3308560
+LB  - 10.1145/3308560
+PB  - Association for Computing Machinery
+SN  - 9781450366755
+TI  - WWW '19: Companion Proceedings of The 2019 World Wide Web Conference
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3587281
+LB  - 10.1145/3587281
+PB  - Association for Computing Machinery
+SN  - 9798400707483
+TI  - W4A '23: Proceedings of the 20th International Web for All Conference
+ER  - 
+TY  - BOOK
+AB  - It is our great pleasure to welcome you to The Web Conference 2019. Th
+e Web Conference is the premier venue focused on understanding the cur
+rent state and the evolution of the Web through the lens of computer s
+cience, computational social science, economics, policy, and many othe
+r disciplines. The 2019 edition of the conference is a reflection poin
+t as we celebrate the 30th anniversary of the Web.
+DA  - 2019///
+ID  - 10.1145/3308558
+LB  - 10.1145/3308558
+PB  - Association for Computing Machinery
+SN  - 9781450366748
+TI  - WWW '19: The World Wide Web Conference
+ER  - 
+TY  - BOOK
+DA  - 2021///
+ID  - 10.1145/3411764
+LB  - 10.1145/3411764
+PB  - Association for Computing Machinery
+SN  - 9781450380966
+TI  - CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - BOOK
+DA  - 2023///
+ID  - 10.1145/3544548
+LB  - 10.1145/3544548
+PB  - Association for Computing Machinery
+SN  - 9781450394215
+TI  - CHI '23: Proceedings of the 2023 CHI Conference on Human Factors in Co
+mputing Systems
+ER  - 
+TY  - CONF
+AB  - Experiential training, where mental health professionals practice thei
+r learned skills, remains the most costly component of therapeutic tra
+ining. We introduce Pin-MI, a video-call-based tool that supports expe
+riential learning of counseling skills used in motivational interviewi
+ng (MI)through interactive role-play as client and counselor. In Pin-M
+I, counselors annotate, or “pin” the important moments in their role-p
+lay sessions in real-time. The pins are then used post-session to faci
+litate a reflective learning process, in which both client and counsel
+or can provide feedback about what went well or poorly during each pin
+ned moment. We discuss the design of Pin-MI and a qualitative evaluati
+on with a set of healthcare professionals learning MI. Our evaluation 
+suggests that Pin-MI helped users develop empathy, be more aware of th
+eir skill usage, guaranteed immediate and targeted feedback, and helpe
+d users correct misconceptions about their performance. We discuss imp
+lications for the design of experiential training tools for learning c
+ounseling skills.
+AU  - Chen, Tianying
+AU  - Liu, Michael Xieyang
+AU  - Ding, Emily
+AU  - O'Neil, Emma
+AU  - Agarwal, Mansi
+AU  - Kraut, Robert E
+AU  - Dabbish, Laura
+C2  - 2023///
+C3  - Proceedings of the 2023 CHI Conference on Human Factors in Computing S
+ystems
+DO  - 10.1145/3544548.3581551
+ID  - 10.1145/3544548.3581
+KW  - clinician training
+KW  - psychology
+KW  - reflective learning
+LB  - 10.1145/3544548.3581551
+PB  - Association for Computing Machinery
+SN  - 9781450394215
+T3  - CHI '23
+TI  - Facilitating Counselor Reflective Learning with a Real-time Annotation
+ tool
+UR  - https://doi.org/10.1145/3544548.3581551
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3689050
+LB  - 10.1145/3689050
+PB  - Association for Computing Machinery
+SN  - 9798400711978
+TI  - TEI '25: Proceedings of the Nineteenth International Conference on Tan
+gible, Embedded, and Embodied Interaction
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3517428
+LB  - 10.1145/3517428
+PB  - Association for Computing Machinery
+SN  - 9781450392587
+TI  - ASSETS '22: Proceedings of the 24th International ACM SIGACCESS Confer
+ence on Computers and Accessibility
+ER  - 
+TY  - JOUR
+AB  - Social emotional skills are foundational competencies upon which child
+ren draw throughout their lives. This work investigates current, comme
+rcially available experiences for social emotional learning (SEL) thro
+ugh conversational agents (CAs). Specifically, we reviewed 3,767 Skill
+s available in the "Kids" category of the Alexa Skills Marketplace and
+ found 42 working Skills with connections to SEL. We found that the mo
+st common scenarios these Skills sought to support were: active listen
+ing, emotional wellbeing, conversation with other people, and politene
+ss. The interaction patterns used by these Skills distilled into a tax
+onomy of styles we labeled: The Delegator, The Lecturer, The Bulldozer
+, and The One-Track Mind. We found that, collectively, these Skills pr
+ovide shallow experiences and lack contingent feedback. To examine the
+ gap between current offerings and families' needs, we also conducted 
+26 interviews with parents to probe parents' ideas about CAs supportin
+g children's SEL. Parents see potential for CAs to support children in
+ four concrete ways, including attuning to others, cultivating curiosi
+ty, reinforcing politeness, and developing emotional awareness. Despit
+e their optimism about these opportunities, parents expressed skeptici
+sm about CAs' impoverished conversational abilities and worry about CA
+s advancing values and behavioral norms that are at odds with their ow
+n.
+AU  - Fu, Yue
+AU  - Michelson, Rebecca
+AU  - Lin, Yifan
+AU  - Nguyen, Lynn K.
+AU  - Tayebi, Tala June
+AU  - Hiniker, Alexis
+DA  - 2022/7//
+DO  - 10.1145/3534622
+ID  - 10.1145/3534622
+IS  - 2
+KW  - Conversational agents
+KW  - social emotional learning
+LB  - 10.1145/3534622
+T2  - Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+TI  - Social Emotional Learning with Conversational Agents: Reviewing Curren
+t Designs and Probing Parents' Ideas for Future Ones
+UR  - https://doi.org/10.1145/3534622
+VL  - 6
+ER  - 
+TY  - BOOK
+DA  - 2025///
+ID  - 10.1145/3698204
+LB  - 10.1145/3698204
+PB  - Association for Computing Machinery
+SN  - 9798400712906
+TI  - CHIIR '25: Proceedings of the 2025 ACM SIGIR Conference on Human Infor
+mation Interaction and Retrieval
+ER  - 
+TY  - BOOK
+DA  - 2022///
+ID  - 10.1145/3546155
+LB  - 10.1145/3546155
+PB  - Association for Computing Machinery
+SN  - 9781450396998
+TI  - NordiCHI '22: Nordic Human-Computer Interaction Conference
+ER  - 
+TY  - CONF
+AB  - With the aim of better scaffolding discussion to improve learning in a
+ MOOC context, this work investigates what kinds of discussion behavio
+rs contribute to learning. We explored whether engaging in higher-orde
+r thinking behaviors results in more learning than paying general or f
+ocused attention to course materials. In order to evaluate whether to 
+attribute the effect to engagement in the associated behaviors versus 
+persistent characteristics of the students, we adopted two approaches.
+ First, we used propensity score matching to pair students who exhibit
+ a similar level of involvement in other course activities. Second, we
+ explored individual variation in engagement in higher-order thinking 
+behaviors across weeks. The results of both analyses support the attri
+bution of the effect to the behavioral interpretation. A further analy
+sis using LDA applied to course materials suggests that more social or
+iented topics triggered richer discussion than more biopsychology orie
+nted topics.
+AU  - Wang, Xu
+AU  - Wen, Miaomiao
+AU  - Rosé, Carolyn P.
+C2  - 2016///
+C3  - Proceedings of the Sixth International Conference on Learning Analytic
+s &amp; Knowledge
+DO  - 10.1145/2883851.2883964
+ID  - 10.1145/2883851.2883
+KW  - LDA topic modeling
+KW  - coding manual
+KW  - discussion
+KW  - learning analytics
+KW  - propensity score matching
+KW  - regression analysis
+LB  - 10.1145/2883851.2883964
+PB  - Association for Computing Machinery
+SN  - 9781450341905
+SP  - 398-407
+T3  - LAK '16
+TI  - Towards triggering higher-order thinking behaviors in MOOCs
+UR  - https://doi.org/10.1145/2883851.2883964
+ER  - 
+TY  - BOOK
+AB  - Welcome to CSCW 2017, the ACM 2017 Conference on Computer Supported Co
+operative Work and Social Computing! We are excited to welcome the CSC
+W community back to Portland, Oregon, where the second CSCW conference
+ was held in 1988. Both Portland and CSCW have matured a great deal du
+ring the intervening 29 years. We hope that you will find that Portlan
+d provides a stimulating environment for our conference.CSCW is the pr
+emier venue for presenting research in the design and use of technolog
+ies that affect groups, organizations, communities, and networks. Brin
+ging together top researchers and practitioners from academia and indu
+stry, CSCW explores the technical, social, material, and theoretical c
+hallenges of designing technology to support collaborative work and li
+fe activities. CSCW welcomes a diverse range of topics and research me
+thodologies. Studies often involve the development and application of 
+novel technologies and/or ethnographic studies that inform design prac
+tice or theory. The mission of the conference is to share research tha
+t advances the state of human knowledge and improves both the design o
+f systems and the ways they are used. The diversity of work in our con
+ference program reflects the diversity of technology use in people's w
+ork, social, and civic lives as well as the geographic and cultural di
+versity of contributors.As many of you know, CSCW follows a rigorous "
+revise and resubmit" review process that uses peer review to improve s
+ubmitted papers while maintaining a high-quality threshold for final a
+cceptance. We also help prepare the next generation of reviewers with 
+a mentorship program in which students review papers under the guidanc
+e of an experienced reviewer. This year we have the largest CSCW progr
+am ever. We had 530 submitted papers and 183 were accepted for present
+ation at the conference. The program also includes 4 papers published 
+in ACM Transactions on Human- Computer Interaction (TOCHI). In additio
+n, we will feature 14 workshops, 56 posters, 12 demos, and 3 panels.Li
+li Cheng of Microsoft Research will open the conference, speaking on "
+Conversational AI &amp; Lessons Learned." Our closing plenary will fea
+ture Jorge Cham, the creator of PhD Comics, who will talk about, "The 
+Science Gap." We also welcome Paul Luff and Christian Heath from King'
+s College as the recipients of this year's CSCW Lasting Impact award f
+or their influential 1998 paper, "Mobility in Collaboration."
+DA  - 2017///
+ID  - 10.1145/2998181
+LB  - 10.1145/2998181
+PB  - Association for Computing Machinery
+SN  - 9781450343350
+TI  - CSCW '17: Proceedings of the 2017 ACM Conference on Computer Supported
+ Cooperative Work and Social Computing
+ER  - 
